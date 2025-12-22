@@ -78,6 +78,7 @@ Please answer the following questions truthfully so that I can set up the lectur
     * [ ] Advanced
     * [ ] God-like
 * Are there any specific topics that would interest you in the context of this lecture and that haven't been mentioned so far? *If not, you can skip this question.*
+    - I am interested in website coding 
 * Is there anything else that you would like me to know regarding this class? *If not, you can skip this question.*
 
 
@@ -99,7 +100,9 @@ Think a bit about your own personal motivation to learn creative coding. What wo
 
 *Submission*: Text or bullet points in your markdown submission file.  
 
-
+- I am interested in visual design processes that give me control over parameters, but still get results that I didn't directly create
+- my motivation is the possibility to create visuals that I like without having to stick to existing design templates or taking a long time searching for fitting ones
+- I plan on doing something fun and interactive that makes me understand some coding logic behind p5js and not yet focus so much on the design (due to time)
 
 ### Task 01.03
 
@@ -107,7 +110,10 @@ Find an existing creative coding project that you like. Coding needs to play a s
 
 
 *Submission*: A short text and links to any other material you would like to add (weblinks, images, videos) in your markdown submission file.  
+For my orientation project I researched a bit in the field of coding and piano playing and came across the artis Dan Tepfer. He improvises on the piano or plays existing pieces and the computer on the one hand visualizes the keys he's playing and on the other hand "plays" notes back (auditory and mechanical -> the piano keys move).
+These projects fascinate me because through coding he adds a completely new sound through complementing or responding to his melodies. He makes the rules but can't always be sure how the result will sound.
 
+Youtube-Playlist: https://youtube.com/playlist?list=PLUzNnspxG1f5Bks6R8ckCzDSEn__psaO8&si=3gfaJwsI1imGwwOy
 
 ## p5
 
@@ -140,6 +146,9 @@ If you have further ideas about how to design the pattern but do not manage to i
 
 *Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
 
+Link to p5js: https://editor.p5js.org/nikara/sketches/pvVbdprh5
+Image: https://owncloud.gwdg.de/index.php/s/liCQjOQYUe5VP2w
+
 
 ## Task 01.06 - Greeting Card
 
@@ -164,13 +173,22 @@ If you have programming experience already, I expect that you go beyond p5's bas
 
 *Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
 
-  
+Link: https://editor.p5js.org/nikara/sketches/PuNmtwf-s
 
+Image: https://owncloud.gwdg.de/index.php/s/0JjHVksMVZ1tIQJ
+
+  
 ## Learnings
 
 Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?
 
 *Submission*: Text or bullet points in your markdown submission file.  
+
+challenging: commit to one idea when there a a lot of technical possibilities (for task 1.06)
+learnings: it is useful to plan the outline (also visually) what I want to program before getting straight onto it and starting to solve problems that I might not even need to solve at the moment
+
+
+
 
 
 ---
