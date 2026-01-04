@@ -7,15 +7,17 @@ has_children: false
 
 # Creative Coding I
 
-Jonathan Ho \| jonathan.g.ho@filmuniversitaet.de    
-Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  
-  
+Jonathan Ho \| jonathan.g.ho@filmuniversitaet.de  
+Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 
 # Slides
 
 In this section you find all slides for the course.
 
-<!--  
+[Session 01](cc1_ws2425_01_slides.pdf)
+[Session 02](cc1_ws2425_02_slides.pdf)
+
+<!--
 
 * [Session 01](cc1_ws2425_01_slides.html)
 * [Session 02](cc1_ws2425_02_slides.html)
@@ -28,7 +30,7 @@ In this section you find all slides for the course.
     * [Code Basic Scene](../01_sessions/05_systems/code/react_basic_example.zip)
 * [Session 08](cc1_ws2425_08_slides.html)
     * [Crappy Portfolio](../01_sessions/05_systems/code/cc1_ws2425_crappy_portfolio.zip)
-    * [RTF Basic Scene](../01_sessions/05_systems/code/rtf_basic_example.zip)  
+    * [RTF Basic Scene](../01_sessions/05_systems/code/rtf_basic_example.zip)
 
-  
+
 -->
