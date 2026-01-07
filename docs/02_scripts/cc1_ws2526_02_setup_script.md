@@ -7,6 +7,7 @@ nav_order: 2
 
 # Creative Coding I: Design & Communication
 
+Jonathan Ho \| jonathangho@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF
 Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF
 
 ---
