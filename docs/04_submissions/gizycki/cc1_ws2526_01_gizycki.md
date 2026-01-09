@@ -105,7 +105,7 @@ I used the p5.js online editor to create a simple interactive sketch. I made a c
 ![MyPattern](img/Task01.05pattern.png)
 
 ## Pattern 2
-[Code Insight](https://editor.p5js.org/Boxnixta/full/YWCWifAo-)
+[Code Insight](https://editor.p5js.org/Boxnixta/sketches/YWCWifAo-)
 
 ![alt text](gif/cubes.gif)
 
