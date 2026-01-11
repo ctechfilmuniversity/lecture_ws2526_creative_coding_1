@@ -192,7 +192,7 @@ Please summarize your personal learnings. What was challenging for you in this s
 
 *Submission*: Text or bullet points in your markdown submission file.  
 
-> The most challenging thing for me in this session was(and probably for a long time will be) taking the time to focus on the basics. It’s nice that I can implement my ideas relatively quickly with the help of ChatGPT, but I found it essential to revisit the fundamentals. For example, by studying the “Code Train”-videos or having ChatGPT walk me through every line of code, so that I truly understand what I’m doing. I would never have reached this point in such a short time without ChatGPT’s help. This, however, comes with the risk that I might not fully grasp what I’m doing and feel the urge to be able to code independently. While it’s not a surprise, it reminded me again that learning to code won’t happen quickly, rather I have to study consistently.
+> The most challenging thing for me in this session was(and probably for a long time will be) taking the time to focus on the basics. It’s nice that I can implement my ideas relatively quickly with the help of ChatGPT, but I found it essential to revisit the fundamentals. For example, by studying the “Coding Train”-videos or having ChatGPT walk me through every line of code, so that I truly understand what I’m doing. I would never have reached this point in such a short time without ChatGPT’s help. This, however, comes with the risk that I might not fully grasp what I’m doing and feel the urge to be able to code independently. While it’s not a surprise, it reminded me again that learning to code won’t happen quickly, rather I have to study consistently.
 
 ---
 
