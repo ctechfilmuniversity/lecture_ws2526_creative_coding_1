@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session
+title: Homework
 nav_exclude: true
 ---
 
@@ -97,7 +97,21 @@ Recapture [Script 01 - Introduction](../../02_scripts/cc1_ws2425_01_intro_script
 Think a bit about your own personal motivation to learn creative coding. What would you like to do with coding and the topics in this class? What kind of final creative coding project are you envisioning after the first session? 
 
 
-*Submission*: Text or bullet points in your markdown submission file.  
+*Submission*:  
+> + Since I’m a complete novice, I want to gain a better understanding of code in general and learn the basics.  
+> 
+> + I want to understand the differences between programming languages, as well as their use cases.
+> 
+> + Ideally, I’d like to reach a level where I can experiment with code in an artistic way, while understanding the underlying rules well enough to intentionally break them.
+> 
+> + Since I’m interested in particle simulation and want to learn more about the fundamentals, I would like to build an interactive particle simulation for the web as my final submission.  
+  Inspirations:  
+  https://nullprogram.com/webgl-particles/  
+  https://particle-love.com/
+> 
+> + Therefore, I’m interested in exploring this topic in class, as well as learning about interactive web applications in general.
+> 
+> + I’m also interested in website hosting.
 
 
 
@@ -107,6 +121,12 @@ Find an existing creative coding project that you like. Coding needs to play a s
 
 
 *Submission*: A short text and links to any other material you would like to add (weblinks, images, videos) in your markdown submission file.  
+
+> https://www.aquarium.ru/en
+> 
+> I find this work inspirational, although it feels quite trippy and visually overwhelming for my personal taste. What I appreciate about it is the creation of a rollercoaster-like pathway that the user can explore, since the speed and direction (forward/backward) are controlled by the user. At the same time, the navigation is super intuitive and relies on “only” one button, which keeps the interaction simple and accessible.
+> 
+> For me, this is creative coding, because it creates that “How did they do it?” effect while also offering a unique experience and portfolio/promotion for the musicians, reflecting their style as the user navigates through the experience.
 
 
 ## p5
@@ -125,21 +145,20 @@ For the coding of this session, it is sufficient to use p5's [online editor](htt
 
 *Submission*: -
 
-
 ### Task 01.05 - The 10 PRINT pattern
 
-Write a sketch that generates a pattern with a similar logic as the 10 PRINT example. Your pattern should follow an element-by-element and row-by-row iterative creation process. If you are a beginner, you can use [the code from the slides](https://editor.p5js.org/legie/sketches/nrfQTzxMI) as a basis (fully understand it first, though!). The goal is to create a visual pleasing or interesting pattern. 
+Write a sketch that generates a pattern with a similar logic as the 10 PRINT example. Your pattern should follow an element-by-element and row-by-row iterative creation process. If you are a beginner, you can use [the code from the slides](https://editor.p5js.org/legie/sketches/nrfQTzxMI) as a basis (fully understand it first, though!). The goal is to create a visual pleasing or interesting pattern.  
 
 If you have further ideas about how to design the pattern but do not manage to implement them, also submit your ideas as text or image.
 
 ![pattern_medium](./img/pattern_medium.gif)  
 [Credits to be added]
 
-*Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
-
+*Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5.  
 
 *Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
 
+> <https://editor.p5js.org/MariaJende/sketches/Jn8TdIwUO>
 
 ## Task 01.06 - Greeting Card
 
@@ -164,6 +183,7 @@ If you have programming experience already, I expect that you go beyond p5's bas
 
 *Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
 
+> <https://editor.p5js.org/MariaJende/sketches/iT5v7Q9cM>
   
 
 ## Learnings
@@ -172,6 +192,7 @@ Please summarize your personal learnings. What was challenging for you in this s
 
 *Submission*: Text or bullet points in your markdown submission file.  
 
+> The most challenging thing for me in this session was(and probably for a long time will be) taking the time to focus on the basics. It’s nice that I can implement my ideas relatively quickly with the help of ChatGPT, but I found it essential to revisit the fundamentals. For example, by studying the “Coding Train”-videos or having ChatGPT walk me through every line of code, so that I truly understand what I’m doing. I would never have reached this point in such a short time without ChatGPT’s help. This, however, comes with the risk that I might not fully grasp what I’m doing and feel the urge to be able to code independently. While it’s not a surprise, it reminded me again that learning to code won’t happen quickly, rather I have to study consistently.
 
 ---
 
