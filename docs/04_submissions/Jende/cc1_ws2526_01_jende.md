@@ -145,23 +145,20 @@ For the coding of this session, it is sufficient to use p5's [online editor](htt
 
 *Submission*: -
 
-
 ### Task 01.05 - The 10 PRINT pattern
 
-Write a sketch that generates a pattern with a similar logic as the 10 PRINT example. Your pattern should follow an element-by-element and row-by-row iterative creation process. If you are a beginner, you can use [the code from the slides](https://editor.p5js.org/legie/sketches/nrfQTzxMI) as a basis (fully understand it first, though!). The goal is to create a visual pleasing or interesting pattern. 
+Write a sketch that generates a pattern with a similar logic as the 10 PRINT example. Your pattern should follow an element-by-element and row-by-row iterative creation process. If you are a beginner, you can use [the code from the slides](https://editor.p5js.org/legie/sketches/nrfQTzxMI) as a basis (fully understand it first, though!). The goal is to create a visual pleasing or interesting pattern.  
 
 If you have further ideas about how to design the pattern but do not manage to implement them, also submit your ideas as text or image.
 
 ![pattern_medium](./img/pattern_medium.gif)  
 [Credits to be added]
 
-*Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
-
+*Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5.  
 
 *Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
 
-> https://editor.p5js.org/MariaJende/sketches/Jn8TdIwUO
-
+> <https://editor.p5js.org/MariaJende/sketches/Jn8TdIwUO>
 
 ## Task 01.06 - Greeting Card
 
@@ -186,7 +183,7 @@ If you have programming experience already, I expect that you go beyond p5's bas
 
 *Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
 
-> https://editor.p5js.org/MariaJende/sketches/2S5bHZ_a9
+> <https://editor.p5js.org/MariaJende/sketches/iT5v7Q9cM>
   
 
 ## Learnings
@@ -195,6 +192,7 @@ Please summarize your personal learnings. What was challenging for you in this s
 
 *Submission*: Text or bullet points in your markdown submission file.  
 
+> The most challenging thing for me in this session was(and probably for a long time will be) taking the time to focus on the basics. It’s nice that I can implement my ideas relatively quickly with the help of ChatGPT, but I found it essential to revisit the fundamentals. For example, by studying the “Coding Train”-videos or having ChatGPT walk me through every line of code, so that I truly understand what I’m doing. I would never have reached this point in such a short time without ChatGPT’s help. This, however, comes with the risk that I might not fully grasp what I’m doing and feel the urge to be able to code independently. While it’s not a surprise, it reminded me again that learning to code won’t happen quickly, rather I have to study consistently.
 
 ---
 
