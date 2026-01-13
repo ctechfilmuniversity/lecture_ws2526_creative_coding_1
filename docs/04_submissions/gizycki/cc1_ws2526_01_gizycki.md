@@ -99,17 +99,13 @@ I used the p5.js online editor to create a simple interactive sketch. I made a c
 
 ## Task 01.05 - The 10 PRINT pattern
 
-### Pattern 1:
-[Code Insight](https://editor.p5js.org/Boxnixta/sketches/5DgQezFoo)
+### Notiz: Analyse der Logik 
++ Das Bild besteht aus einem Raster
++ In jedem Feld wird zufällig eine von zwei Linien gezeichnet
++ Das passiert Zeile für Zeile, Spalte für Spalte
 
-![MyPattern](img/Task01.05pattern.png)
-
-## Pattern 2
-[Code Insight](https://editor.p5js.org/Boxnixta/sketches/YWCWifAo-)
-
-![alt text](gif/cubes.gif)
-
-
+![alt text](<gif/Bildschirmaufnahme 2026-01-13 um 22.27.13.gif>)
+[Code Insight](https://editor.p5js.org/Boxnixta/sketches/edyTSXngr)
 ## Task 01.06 - Greeting Card
 
 > ### Open it in a new tab: [Open Sketch](https://editor.p5js.org/Boxnixta/full/54LQfRluB)
