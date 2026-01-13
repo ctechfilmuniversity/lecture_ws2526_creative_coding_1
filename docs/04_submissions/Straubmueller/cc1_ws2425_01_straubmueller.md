@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session
+title: Homework
 nav_exclude: true
 ---
 
@@ -47,7 +47,7 @@ Read the [Syllabus](../../index.md) carefully and know how this class works and 
 
 Are there any open questions regarding the syllabus and the administration of this course? If so, please mention them next class.
 
-*Submission*: -
+*Submission*: - no
 
 ## Topics
 
@@ -57,27 +57,30 @@ Please answer the following questions truthfully so that I can set up the lectur
 
 * Overall, how would you rate your skill level of programming?
     * [ ] Never done it
-    * [ ] Novice
+    * [x] Novice
     * [ ] Intermediate
     * [ ] Advanced
     * [ ] God-like
 * Have you used object-oriented programming before?
-    * [ ] I don't know what that is
+    * [x] I don't know what that is
     * [ ] I know the concept, but I have never implemented it
     * [ ] Yes
 * Overall, how would you rate your skill level of using web technologies, e.g., have you used a local server setup?
-    * [ ] Never done it
+    * [x] Never done it
     * [ ] Novice
     * [ ] Intermediate
     * [ ] Advanced
     * [ ] God-like
 * How would you rate your skill level of working with Git and GitHub?
     * [ ] Never done it
-    * [ ] Novice
+    * [x] Novice
     * [ ] Intermediate
     * [ ] Advanced
     * [ ] God-like
 * Are there any specific topics that would interest you in the context of this lecture and that haven't been mentioned so far? *If not, you can skip this question.*
+
+Pixel sorting
+
 * Is there anything else that you would like me to know regarding this class? *If not, you can skip this question.*
 
 
@@ -97,16 +100,21 @@ Recapture [Script 01 - Introduction](../../02_scripts/cc1_ws2425_01_intro_script
 Think a bit about your own personal motivation to learn creative coding. What would you like to do with coding and the topics in this class? What kind of final creative coding project are you envisioning after the first session? 
 
 
-*Submission*: Text or bullet points in your markdown submission file.  
+- Interactive website hero animation
+- Blender add-on
+- Pixel sorting and frame manipulation 
 
 
 
 ### Task 01.03
 
-Find an existing creative coding project that you like. Coding needs to play a significant role for the project, also ideally it is web-based (this is not a hard requirement). Describe what you like about the project and why you think that the project represents creative coding.
+*Submission*:
 
+I became interested in creative coding when I discovered databending and datamoshing. I have always loved the unique, unpredictable results and the subtle element of chance in these techniques. In my portfolio, I used FFglitch, a multimedia bitstream editor based on the open-source project FFmpeg, to experiment with this kind of visual distortion. The tool allows direct manipulation of video and image data in unconventional ways, which leads to surprising glitch aesthetics that would be difficult to achieve manually.
 
-*Submission*: A short text and links to any other material you would like to add (weblinks, images, videos) in your markdown submission file.  
+ [Klick here](https://ffglitch.org/gallery/) to go to a gallery with eyamples. 
+
+When I first encountered FFglitch, I had no prior coding experience and initially struggled to get started and edit videos directly via the command line. Fortunately, a developer named Daz Disley created a graphical front-end for FFglitch, which made the tool much more accessible.
 
 
 ## p5
@@ -123,7 +131,7 @@ For the coding of this session, it is sufficient to use p5's [online editor](htt
 
 *Tip*: Right-click on the canvas in the p5 editor and chose `Save image as...` to save an image of your canvas.
 
-*Submission*: -
+*Submission*: https://editor.p5js.org/an0malie_/full/Nyerd-6lB
 
 
 ### Task 01.05 - The 10 PRINT pattern
@@ -138,7 +146,7 @@ If you have further ideas about how to design the pattern but do not manage to i
 *Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
 
 
-*Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
+*Submission*: https://editor.p5js.org/an0malie_/full/1N8b-HgHP
 
 
 ## Task 01.06 - Greeting Card
@@ -162,7 +170,9 @@ If you have programming experience already, I expect that you go beyond p5's bas
 
 *Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
 
-*Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
+
+
+*Submission*: https://editor.p5js.org/an0malie_/full/qibx5TKTu
 
   
 
@@ -170,7 +180,13 @@ If you have programming experience already, I expect that you go beyond p5's bas
 
 Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?
 
-*Submission*: Text or bullet points in your markdown submission file.  
+*Submission*: 
+- I learned new logic with The Coding Train
+- I tried many things with the 10-print pattern, sometimes with disappointing results, and spent a lot of time making it more interesting until I decided to focus more on the greeting card
+- I learned how to create a button, format text, delay actions, and work with images in p5js, but I also wasted a lot of time with the greeting card because I tried to generate a random image when the mouse clicks on the button
+- I also gained new knowledge about how to use vibe coding and when not to use it
+
+
 
 
 ---
