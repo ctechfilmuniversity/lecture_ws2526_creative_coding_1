@@ -91,11 +91,11 @@ nav_exclude: true
 ⠀⠀⠀/⠀ﾐ`——彡⠀ \  
 
 
-Instructions from Buff Hase ✨ 
+Instructions from Buff Hase 🐰
 1. Stare at the sun ☀ and try flexing your arm muscles. 
 2. Each blink grows your ♥-muscles a little more.
-3. Leap three times to the left ← ← ←  and scatter some stars * * *. 
-4. Hearts may appear spontaneously around you ♥ ♥ ♥.
+3. Leap three times to the left ← ← ←  and scatter some sweat drops 💦. 
+4. Admire the sparkling reflections of the sun ✨.
 5. Repeat until your face is smiling like the sun ☀.
 6. Buff Hase is always watching. Make him proud 💪.
 ```
