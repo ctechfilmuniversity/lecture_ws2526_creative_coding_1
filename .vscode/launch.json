@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "d:\\03_Filmuni\\01_Semester\\07_CC1\\03_Work\\01_Session\\lecture_ws2526_creative_coding_1\\docs\\05_examples\\06_checkerboard\\index.html"
+        }
+    ]
+}
