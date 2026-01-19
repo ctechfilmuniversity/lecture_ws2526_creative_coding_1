@@ -24,20 +24,20 @@ Complete this session by January 14. Going through the scripts and answering the
 
 
 
-* [Creative Coding I](#creative-coding-i)
-* [Session 01 (20 points)](#session-01-20-points)
-    * [Syllabus and Administration](#syllabus-and-administration)
-        * [Task 01.01](#task-0101)
-    * [Topics](#topics)
-        * [Task 01.02](#task-0102)
-    * [Introduction](#introduction)
-        * [Task 01.02](#task-0102-1)
-        * [Task 01.03](#task-0103)
-    * [p5](#p5)
-        * [Task 01.04 - p5 With The Online Editor](#task-0104---p5-with-the-online-editor)
-        * [Task 01.05 - The 10 PRINT pattern](#task-0105---the-10-print-pattern)
-    * [Task 01.06 - Greeting Card](#task-0106---greeting-card)
-    * [Learnings](#learnings)
+- [Creative Coding I](#creative-coding-i)
+- [Session 01 (20 points)](#session-01-20-points)
+  - [Syllabus and Administration](#syllabus-and-administration)
+    - [Task 01.01](#task-0101)
+  - [Topics](#topics)
+    - [Task 01.02](#task-0102)
+  - [Introduction](#introduction)
+    - [Task 01.02](#task-0102-1)
+    - [Task 01.03](#task-0103)
+  - [p5](#p5)
+    - [Task 01.04 - p5 With The Online Editor](#task-0104---p5-with-the-online-editor)
+    - [Task 01.05 - The 10 PRINT pattern](#task-0105---the-10-print-pattern)
+  - [Task 01.06 - Greeting Card](#task-0106---greeting-card)
+  - [Learnings](#learnings)
 
 ## Syllabus and Administration
 
@@ -57,23 +57,23 @@ Please answer the following questions truthfully so that I can set up the lectur
 
 * Overall, how would you rate your skill level of programming?
     * [ ] Never done it
-    * [ ] Novice
+    * [x] Novice
     * [ ] Intermediate
     * [ ] Advanced
     * [ ] God-like
 * Have you used object-oriented programming before?
-    * [ ] I don't know what that is
+    * [x] I don't know what that is
     * [ ] I know the concept, but I have never implemented it
     * [ ] Yes
 * Overall, how would you rate your skill level of using web technologies, e.g., have you used a local server setup?
-    * [ ] Never done it
+    * [x] Never done it
     * [ ] Novice
     * [ ] Intermediate
     * [ ] Advanced
     * [ ] God-like
 * How would you rate your skill level of working with Git and GitHub?
     * [ ] Never done it
-    * [ ] Novice
+    * [x] Novice
     * [ ] Intermediate
     * [ ] Advanced
     * [ ] God-like

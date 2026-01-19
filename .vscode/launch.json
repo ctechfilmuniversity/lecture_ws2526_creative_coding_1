@@ -5,10 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
+<<<<<<< HEAD
             "type": "msedge",
             "request": "launch",
             "name": "Open index.html",
             "file": "d:\\03_Filmuni\\01_Semester\\07_CC1\\03_Work\\01_Session\\lecture_ws2526_creative_coding_1\\docs\\05_examples\\06_checkerboard\\index.html"
+=======
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:5500",
+            "webRoot": "${workspaceFolder}"
+>>>>>>> 34b8b71a60ed818c2529b10686d9cf14e22122ac
         }
     ]
 }
