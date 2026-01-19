@@ -47,7 +47,8 @@ _Submission_: Submit a link to your online sketch within the p5 editor, and link
 
 _Submission_:
 -  https://editor.p5js.org/an0malie_/sketches/iCmEcrRRt
-- .\vid\Task 02.01 - Coding_Circles.mp4"
+- [Click here for the video](https://owncloud.gwdg.de/index.php/s/0XAaCcFy4vcuF2I)
+- .\img\Task 02.01 - Coding_Circles
 
 ### Task 02.02 - _Coding_
 
