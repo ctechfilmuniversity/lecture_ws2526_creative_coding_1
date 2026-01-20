@@ -52,13 +52,13 @@ _Submission_: Submit a link to your online sketch within the p5 editor, and link
 Circles!
 
 > Access Project Files:
-> https://github.com/MariaJende/cc1_ws2526_02_jende_02
+> https://github.com/MariaJende/cc1_ws2526_02_jende_01
 > 
 >View Project:
-> https://mariajende.github.io/cc1_ws2526_02_jende_02/
+> https://mariajende.github.io/cc1_ws2526_02_jende_01/
 > >
 > View Video of Project:
-> https://owncloud.gwdg.de/index.php/f/3812242744
+> https://owncloud.gwdg.de/index.php/f/3812310145
 
 ### Task 02.02 - _Coding_
 
