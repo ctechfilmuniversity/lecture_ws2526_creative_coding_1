@@ -7,46 +7,6 @@ nav_exclude: true
 ---
 ```
 
-# WORK IN PROGRESS!
-
-# Creative Coding I
-
-Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF
-
-# Session 02 - Instruction (10 points)
-
-Please complete this session by January 21st. Since we did not cover local server setup yet, you can stop after the Completing the session should take < 5h.
-
-In this session we are going to think about the topic of _instructions_ and what the different forms in which instructions can be given. In terms of tech this session is about continuing programming with p5 and getting some coding done!
-
-- [WORK IN PROGRESS!](#work-in-progress)
-- [Creative Coding I](#creative-coding-i)
-- [Session 02 - Instruction (10 points)](#session-02---instruction-10-points)
-    - [Tools and Environments](#tools-and-environments)
-  - [Instructions](#instructions)
-    - [Task 02.01 - _Coding_](#task-0201---coding)
-    - [Task 02.02 - _Coding_](#task-0202---coding)
-    - [Task 02.03 - _Algorithmic Thinking_](#task-0203---algorithmic-thinking)
-    - [Task 02.04 - _Creative Instructions_](#task-0204---creative-instructions)
-    - [We will get to Script 06 - The Web at a later class, so you're not expected to know / do this part until after the break.](#we-will-get-to-script-06---the-web-at-a-later-class-so-youre-not-expected-to-know--do-this-part-until-after-the-break)
-  - [The Web](#the-web)
-    - [Task 02.05 - _Working With a Local Server_](#task-0205---working-with-a-local-server)
-  - [Learnings](#learnings)
-
-### Tools and Environments
-
-Are there any languages, tools or environments for creative coding that you know of, that you can recommend, and which are not included in the script? _If not, you can skip this question._
-
-_Submission_: /
-
-## Instructions
-
-Submit a text-based program and its result for each of the following instruction. Try to include into the programming some algorithmic thinking, meaning a structured approach.
-
-_Note_: You are free to choose any programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5.
-
-_Submission_: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
-
 ### Task 02.01 - _Coding_
 
 Circles!
@@ -59,6 +19,8 @@ Circles!
 > >
 > View Video of Project:
 > https://owncloud.gwdg.de/index.php/f/3812310145
+>
+> Inspired by https://medium.com/@banyapon/creating-an-engaging-rhythm-circle-with-creative-coding-in-three-js-2eeac9df1fe2 by Banyapon Poolsawas
 
 ### Task 02.02 - _Coding_
 
@@ -77,7 +39,25 @@ Happiness.
 
 Briefly reflect on how you implemented your creative idea. Did you apply algorithmic thinking and if so, how?
 
-_Submission_: Text or bullet points in your markdown submission file.
+_Submission_:
+
+> I actually used alghoritmic thinking several times. Therefore I will only show one per task.
+>
+> **02.01_Circles**
+> 
+> **02.02_Happiness**
+> 
+> ```js
+> const positions = new Float32Array(COUNT * 3);
+> const velocities = new Float32Array(COUNT * 3);
+> 
+> for (let i = 0; i < COUNT * 3; i++) {
+>   positions[i] = (Math.random() - 0.5) * 200;
+>   velocities[i] = (Math.random() - 0.5) * 300;
+> }
+> ```
+> I see this as algorithmic thinking because the code describes a clear process rather than fixed results.  
+> Each particle is treated as an entity with a state consisting of position (x, y, z = 3 values) and velocity. Instead of assigning explicit values to those two parameters, the algorithm creates them using controlled randomness, distributing particles across space and giving them high initial velocities.  
 
 ### Task 02.04 - _Creative Instructions_
 
