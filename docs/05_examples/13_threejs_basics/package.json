@@ -1,0 +1,16 @@
+{
+  "name": "threejs-basics",
+  "version": "1.0.0",
+  "description": "Basic three.js scene setup example",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
