@@ -14,8 +14,11 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 
 In this section you find all slides for the course.
 
-[Session 01](cc1_ws2425_01_slides.pdf)
-[Session 02](cc1_ws2425_02_slides.pdf)
+* [Session 01](cc1_ws2526_01_slides.pdf)
+* [Session 02](cc1_ws2526_02_slides.pdf)
+* [Session 03](cc1_ws2526_03_slides.html)
+* [Session 04](cc1_ws2526_04_slides.html)
+* [Session 05](cc1_ws2526_05_slides.html)
 
 <!--
 

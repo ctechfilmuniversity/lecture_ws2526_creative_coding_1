@@ -17,7 +17,7 @@ In this section you find all scripts for the course.
 
 
 
-<!-- 
+
 
 * [Chapter 01 - Introduction](cc1_ws2425_01_intro_script.md)
 * [Chapter 02 - Setup](cc1_ws2425_02_setup_script.md)
@@ -26,6 +26,6 @@ In this section you find all scripts for the course.
 * [Chapter 04 - JavaScript](cc1_ws2425_04_javascript_script.md)
 * [Chapter 05 - The Web](cc1_ws2425_05_web_script.md)
 * [Chapter 06 - three.js](cc1_ws2425_06_threejs_script.md)
-* [Chapter 07 - Debugging](cc1_ws2425_07_debugging_script.md)
+<!-- * [Chapter 07 - Debugging](cc1_ws2425_07_debugging_script.md) -->
   
-  -->
+ 
