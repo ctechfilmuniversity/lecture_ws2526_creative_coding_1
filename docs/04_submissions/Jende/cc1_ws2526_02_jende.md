@@ -18,7 +18,7 @@ Circles!
 > https://mariajende.github.io/cc1_ws2526_02_jende_01/
 > >
 > View Video of Project:
-> https://owncloud.gwdg.de/index.php/f/3812310145
+> https://owncloud.gwdg.de/index.php/s/qstVvOtOnH14lWe
 >
 > Inspired by https://medium.com/@banyapon/creating-an-engaging-rhythm-circle-with-creative-coding-in-three-js-2eeac9df1fe2 by Banyapon Poolsawas
 
@@ -33,7 +33,7 @@ Happiness.
 > https://mariajende.github.io/cc1_ws2526_02_jende_02/
 >
 > View Video of Project:
-> https://owncloud.gwdg.de/index.php/f/3812242744
+> https://owncloud.gwdg.de/index.php/s/jCIxDsnhQ3jTxzP
 
 ### Task 02.03 - _Algorithmic Thinking_
 
