@@ -158,7 +158,9 @@ Please summarize your personal learnings. What was challenging for you in this s
 
 #### What I struggled with
 
-First, I wanted to test a different concept, in which I lined up glass panes and placed them in front of a sphere to break up the silhouette of the sphere in the panes. I tried to make the glass look more realistic with a gradient PNG, which looked absolutely terrible. I also wanted to apply a noise texture to the sphere, which didn't look good either. After many attempts, I finally decided to pursue a different concept, as even after several hours, the results were disappointing.
+First, I wanted to test a different concept, in which I lined up glass panes and placed them in front of a sphere to break up the silhouette of the sphere in the panes. I tried to make the glass look more realistic with a gradient PNG, which looked absolutely terrible. I also wanted to apply a noise texture to the sphere, which didn't look good either. After many attempts, I finally decided to pursue a different concept, as even after several hours, the results were disappointing. (Sadly, that is the only work-in-progress image I took. I, of course, tried to place the panes in front of the sphere)
+
+![submission03-Image ](./img/260126_CC1_Session03_Task%2003-03_WIP-01.png)
 
 
 Also:
