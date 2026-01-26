@@ -148,21 +148,21 @@ Please summarize your personal learnings. What was challenging for you in this s
 - How to build a modular geometry system instead of placing objects manually
 
 - How to use loops and functions to generate procedural compositions
-
 - How to use Groups to organize multiple meshes as one unit
-
 - How to create depth fog and different lighting
-
 - How to control the camera look (distortion)
-
 - How to add OrbitControls 
-
 - How to animate motion by using the render loop
-
 - How color works in Three.js (0xRRGGBB)
 
 
 #### What I struggled with
+
+First, I wanted to test a different concept, in which I lined up glass panes and placed them in front of a sphere to break up the silhouette of the sphere in the panes. I tried to make the glass look more realistic with a gradient PNG, which looked absolutely terrible. I also wanted to apply a noise texture to the sphere, which didn't look good either. After many attempts, I finally decided to pursue a different concept, as even after several hours, the results were disappointing.
+
+
+Also:
+
 - White screen → JavaScript crashed before rendering
 - Shapes repeating identically → cloning results instead of regenerating with logic
 - Layout breaking when rotating → rotating coordinate systems vs rotating objects
