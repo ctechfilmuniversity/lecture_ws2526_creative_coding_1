@@ -19,9 +19,6 @@ Abstract sculpture that randomly reshapes with every page refresh.
 > Access Project Files:
 > https://github.com/MariaJende/cc1_ws2526_03_jende_03
 > 
-> View Project:
-> https://mariajende.github.io/cc1_ws2526_03_jende_03/
-> >
 > View Video of Project:
 > https://owncloud.gwdg.de/index.php/s/BNAZ1G6m312k8TV
 > 
