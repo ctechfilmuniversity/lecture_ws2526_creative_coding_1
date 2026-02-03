@@ -1,0 +1,62 @@
+/* 
+ * App styles for React Three Fiber example
+ */
+
+.app {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+}
+
+.controls {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  min-width: 220px;
+}
+
+.controls h2 {
+  margin: 0 0 15px 0;
+  font-size: 1.2rem;
+  color: #333;
+  border-bottom: 2px solid #667eea;
+  padding-bottom: 10px;
+}
+
+.control-group {
+  margin-bottom: 15px;
+}
+
+.control-group label {
+  display: block;
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.control-group input[type="color"] {
+  width: 100%;
+  height: 35px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 0;
+}
+
+.control-group input[type="range"] {
+  width: 100%;
+  cursor: pointer;
+}
+
+.hint {
+  font-size: 0.75rem;
+  color: #999;
+  text-align: center;
+  margin: 10px 0 0 0;
+}
