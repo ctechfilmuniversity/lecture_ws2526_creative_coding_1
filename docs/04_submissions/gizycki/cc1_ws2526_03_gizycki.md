@@ -13,9 +13,11 @@ nav_exclude: true
 
 
 
-🔗 **Live Demo:**  [Dispersion Bubbles](https://codepen.io/box-nixta/pen/ZYORJRr)
+🔗 **Live Demo:**  [Dispersion Bubbles](https://boxnixta.github.io/threejs-kusama-scene-CC1-03.03/)
 
-💻 **Source Code:**  [here](https://codepen.io/box-nixta/pen/ZYORJRr).
+✏️ **CodePen:**  [Everything at one place](https://codepen.io/box-nixta/pen/ZYORJRr)
+
+💻 **Source Code:**  [here](https://github.com/Boxnixta/threejs-kusama-scene-CC1-03.03.git).
 
 📼 **Visual Result:** the live version shows more detail and the interaction of course
 
