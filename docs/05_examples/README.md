@@ -31,6 +31,15 @@ Three.js examples require npm and a development server:
 3. Run `npm run dev` to start the development server
 4. Open the URL shown in the terminal (usually `http://localhost:5173`)
 
+### React Examples (21, 22)
+
+React examples also require npm and a development server:
+
+1. Navigate to the example folder in your terminal
+2. Run `npm install` to install dependencies
+3. Run `npm run dev` to start the development server
+4. Open the URL shown in the terminal (usually `http://localhost:5173`)
+
 ---
 
 ## Session 02: Instruction - Examples (p5.js)
@@ -161,6 +170,22 @@ Learn to use the debugger to find and fix bugs. Contains an intentional bug for 
 
 ---
 
+## Sessions 07 & 08: React - Examples
+
+These examples introduce React for building user interfaces and React Three Fiber for 3D:
+
+### 21_react_basics
+
+**Concepts:** Components, JSX, props, useState hook, event handlers  
+Learn the fundamentals of React: how to create reusable components, pass data with props, and manage state that triggers re-renders.
+
+### 22_react_three_fiber
+
+**Concepts:** React Three Fiber (R3F), Canvas, mesh components, useFrame, useRef, Drei library  
+Build 3D scenes using React patterns! R3F wraps Three.js in a declarative React API, making 3D development feel like regular React development.
+
+---
+
 ## Progressive Learning Path
 
 ### Part 1: Programming Fundamentals (p5.js)
@@ -191,7 +216,13 @@ Learn to use the debugger to find and fix bugs. Contains an intentional bug for 
 14_threejs_basics → 19_gui_controls → 20_loading_models
 ```
 
-### Part 5: Development Tools
+### Part 5: React
+
+```
+21_react_basics → 22_react_three_fiber
+```
+
+### Part 6: Development Tools
 
 ```
 13_debugging_basics
@@ -222,6 +253,13 @@ Learn to use the debugger to find and fix bugs. Contains an intentional bug for 
 - [Three.js Examples](https://threejs.org/examples/) - Interactive examples gallery
 - [Three.js Journey](https://threejs-journey.com/) - Comprehensive course by Bruno Simon
 - [Discover Three.js](https://discoverthreejs.com/) - Free online book
+
+### React & React Three Fiber
+
+- [React Documentation](https://react.dev/) - Official React documentation
+- [React Three Fiber Docs](https://r3f.docs.pmnd.rs/) - R3F documentation
+- [Drei Library](https://drei.docs.pmnd.rs/) - Useful R3F helper components
+- [R3F Examples](https://r3f.docs.pmnd.rs/getting-started/examples) - Interactive examples
 
 ---
 
