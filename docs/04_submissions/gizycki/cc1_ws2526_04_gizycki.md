@@ -16,16 +16,10 @@ nav_exclude: true
 
 ### Task 04.01
 
->Re-cap the sections in the script regarding higher order functions and their different syntax formats. As a beginner you can skip the more advanced sections that we haven't covered in class:
-
 - [Higher Order Functions](../../02_scripts/cc1_ws2526_04_javascript_script.md#higher-order-functions)
 - [Anonymous Functions](../../02_scripts/cc1_ws2526_04_javascript_script.md#anonymous-functions)
 - [Arrow Functions](../../02_scripts/cc1_ws2526_04_javascript_script.md#arrow-functions)
 - [Asynchronism](../../02_scripts/cc1_ws2526_04_javascript_script.md#asynchronism)
-
->At the very least make sure that you understand the underlying functionality and that you will be able to work with the syntax when given to you, e.g., from a framework.
-
->If you are more advanced, make sure that your understand Closures, Promises and Async and Await.
 
 _Submission:_ ✅
 
@@ -44,18 +38,10 @@ Reflect on your usage of resources and Machine Learning tools for coding.
 - "How do you want to proceed?"
   - I just want to keep going like this. I've noticed that I'm already writing small parts of the code myself, simply because I know how the structure is. That's pretty amazing for me because at the beginning I didn't understand any of the coding languages ​​at all. I'll soon be taking the Three.js course we bought, and that will help me solidify some of the basics. Right now, I'm trying to fix errors myself, as far as I understand them. I think if I continue like this, I'll soon be able to do less with AI and more writing myself.
 
-_Submission:_ ✅
 
 ## Three.js
 
 ### Task 04.03 - Your Own Scene
-
->Create a Three.js scene up to your liking. There are no constraints for what the scene should be. The result should be polished and will be graded on concept, form / design and implementation quality.
-
->You are required to use additional functionality that you haven't yet used last week. Check the [three.js manual](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene) or [the examples](https://threejs.org/examples/#webgl_animation_keyframes) for inspiration.
-
->_Submission_: Link in your markdown submission file at least one result image or video of your work. Also, submit the required source files, and your package.json for me to `npm install` and `npm run` your project. If your are using a different environment than npm, let me know which steps to follow and make sure that the required steps to run your project are **easy** and **fast** (make it easy on other developers to run your code, it will make their life easier and they will be more likely to help you).
-👀 **Visual Result:** the live version shows more detail and the interaction of course
 
 ### 🔗 **Live Demo:**  [here](https://boxnixta.github.io/russmaennchen-cursor/).
 
@@ -80,8 +66,6 @@ _Submission:_ ✅
 
 >Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?
 
->_Submission_: Text or bullet points in your markdown submission file.
-
 - Herausforderung: Dependency-Management & Versionen:
 
   - Ich habe gelernt, dass die Installation von Bibliotheken (wie @react-three/postprocessing) zu Versionskonflikten führen kann (E-RESOLVE Fehler).
@@ -104,8 +88,3 @@ _Submission:_ ✅
   - Durch die Arbeit mit useEffect und Event-Listenern habe ich praktisch gesehen, wie asynchroner Code (Mausbewegungen) in eine laufende Animation (useFrame) einfließt, ohne das Programm zu blockieren.
 
 ---
-
-
-
-
-
