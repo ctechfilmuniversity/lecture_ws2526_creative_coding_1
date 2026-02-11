@@ -14,7 +14,7 @@ nav_exclude: true
 
 **Code:** Can be found [here](https://github.com/ctechfilmuniversity/lecture_ws2526_creative_coding_1/tree/main/docs/04_submissions/weber/submission_03).
 
-**Video:** can be found [here](https://owncloud.gwdg.de/index.php/s/USERvR9YfiYEG2g).
+**Video:** can be found [here](https://owncloud.gwdg.de/index.php/s/mp3lpCt6lfJMLPw).
  <p align="center">
 
  ## Learnings
