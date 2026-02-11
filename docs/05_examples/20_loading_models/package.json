@@ -1,0 +1,16 @@
+{
+  "name": "loading-models",
+  "version": "1.0.0",
+  "description": "Loading glTF models with three.js example",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}

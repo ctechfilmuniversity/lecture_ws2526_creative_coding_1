@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: 'Courier New', monospace;
+}
+
+canvas {
+  display: block;
+}

@@ -1,0 +1,68 @@
+/* 
+ * Counter component styles
+ */
+
+.counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.counter-display {
+  font-size: 4rem;
+  font-weight: bold;
+  min-width: 120px;
+  text-align: center;
+}
+
+.counter-display .positive {
+  color: #27ae60;
+}
+
+.counter-display .negative {
+  color: #e74c3c;
+}
+
+.counter-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.counter-btn {
+  width: 60px;
+  height: 60px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.counter-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.counter-btn:active {
+  transform: translateY(0);
+}
+
+.counter-btn.minus {
+  background: #e74c3c;
+  color: white;
+}
+
+.counter-btn.plus {
+  background: #27ae60;
+  color: white;
+}
+
+.counter-btn.reset {
+  width: auto;
+  padding: 0 20px;
+  background: #95a5a6;
+  color: white;
+  font-size: 1rem;
+}

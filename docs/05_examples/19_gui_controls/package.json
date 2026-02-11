@@ -1,0 +1,17 @@
+{
+  "name": "gui-controls",
+  "version": "1.0.0",
+  "description": "lil-gui controls example with three.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.169.0",
+    "lil-gui": "^0.19.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
