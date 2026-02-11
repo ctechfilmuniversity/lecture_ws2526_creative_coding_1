@@ -1,2 +1,18 @@
 */.DS_Store
 .DS_Store
+
+# Abhängigkeiten
+node_modules/
+dist/
+build/
+
+# Betriebssystem-Müll
+.DS_Store
+Thumbs.db
+
+# VS Code Einstellungen (optional, oft besser sie zu ignorieren)
+.vscode/
+.history/
+
+# Lokale Umgebungsvariablen
+.env
