@@ -101,54 +101,53 @@ Here I dived a little bit more into algorithmic thinking. This scene is inspirat
 
 🐓 **Instructions to let chickens safe your mental health** 🐓
 
-*This system assumes you like chickens!*
+      This system assumes you like chickens!
+      This system also assumes you don't have chickens yet.
 
-*This system also assumes you don't have chickens yet*
+      Do this every day at any time:
+      * Think of a happy chicken.
+      * Think about at least three happy chickens living together in a species-appropriate environment.
+      * Think about your current life situation: would there be physical space and time caring for this chicken?
+        
+        if (space && commitment) < 100% -> search for chicken reels e.g. on instagram
+            while watching makes you feel good -> scroll
+            if dailyChickenDose = 1 -> quit 
 
-*do this every day at any time:*
-  * Think of a happy chicken.
-  * Think about at least three happy chickens living together in a species-appropriate environment.
-  * Think about your current life situation: would there be physical space and time caring for this chicken?
-    *
-    if (space && commitment) < 100% -> search for chicken reels e.g. on instagram
-        while watching makes you feel good -> scroll
-        if dailyChickenDose = 1 -> quit 
+        if (space + commitment) = 1 -> build a stable and get (at least three) chickens! 
+            for each chicken choose a worthily name
+            choose a time in the morning and the evening where you want to feed your chickens
+            your status changed to "ChickenOwner"
 
-    if (space + commitment) = 1 -> build a stable and get (at least three) chickens! 
-        for each chicken choose a worthily name
-        choose a time in the morning and the evening where you want to feed your chickens
-        your status changed to "ChickenOwner"
-    
-<br>
 
-*if your status reached ChickenOwner:*
-  * think about your chickens several times a day!
-  
-    if currentTime = choosenTimeforFeeding -> go to the stable
-    
-    * feed your chickens and refresh the water
-    * search for eggs
-        if you found an egg -> pick it up and look for another egg
-        repeat, until all eggs are picked up
-    * check if all chickens are fine and healthy
 
-  * at any time pick one of the following options
-
-    * carefully pick up a chicken
-      if the chicken does not protest -> cuddle
-      if chicken is loosing a feather -> collect and store in your bag
-      while chicken and you are happy -> repeat
-
-      else quit
-      rechoose an option or leave
-    
-    * sit down somewhere and watch your chicken
-      if they are funny -> laugh
-      take some videos for your memory
-      while chicken and you are happy -> repeat
+      If your status reached ChickenOwner:
+      * think about your chickens several times a day!
       
-      else quit
-      rechoose an option or leave
+        if currentTime = choosenTimeforFeeding -> go to the stable
+        
+        * feed your chickens and refresh the water
+        * search for eggs
+            if you found an egg -> pick it up and look for another egg
+            repeat, until all eggs are picked up
+        * check if all chickens are fine and healthy
+
+      * at any time pick one of the following options
+
+        * carefully pick up a chicken
+          if the chicken does not protest -> cuddle
+          if chicken is loosing a feather -> collect and store in your bag
+          while chicken and you are happy -> repeat
+
+          else quit
+          rechoose an option or leave
+        
+        * sit down somewhere and watch your chicken
+          if they are funny -> laugh
+          take some videos for your memory
+          while chicken and you are happy -> repeat
+          
+          else quit
+          rechoose an option or leave
 
     
 ## Learnings
