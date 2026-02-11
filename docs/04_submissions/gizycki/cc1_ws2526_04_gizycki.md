@@ -11,33 +11,21 @@ nav_exclude: true
 
 # Session 04 - Asynchronism / Space Again (15 points)
 
-Please complete this session by February 11th. Completing the session should take < 6h.
-
-- [Creative Coding I](#creative-coding-i)
-- [Session 04 - Asynchronism / Space Again (15 points)](#session-04---asynchronism--space-again-15-points)
-  - [JavaScript Functions \& Asynchronism](#javascript-functions--asynchronism)
-    - [Task 04.01](#task-0401)
-    - [Task 04.02 - Coding Practices](#task-0402---coding-practices)
-  - [Three.js](#threejs)
-    - [Task 04.03 - Your Own Scene](#task-0403---your-own-scene)
-  - [Learnings](#learnings)
-
-In this session we are dealing with the topic of _asynchronism_, where we encounter it in every day life and what it means for us as humans. In terms of tech, this session introduces you to some web-specific JavaScript functionality and syntax, which we will need in the upcoming sessions.
 
 ## JavaScript Functions & Asynchronism
 
 ### Task 04.01
 
-Re-cap the sections in the script regarding higher order functions and their different syntax formats. As a beginner you can skip the more advanced sections that we haven't covered in class:
+>Re-cap the sections in the script regarding higher order functions and their different syntax formats. As a beginner you can skip the more advanced sections that we haven't covered in class:
 
 - [Higher Order Functions](../../02_scripts/cc1_ws2526_04_javascript_script.md#higher-order-functions)
 - [Anonymous Functions](../../02_scripts/cc1_ws2526_04_javascript_script.md#anonymous-functions)
 - [Arrow Functions](../../02_scripts/cc1_ws2526_04_javascript_script.md#arrow-functions)
 - [Asynchronism](../../02_scripts/cc1_ws2526_04_javascript_script.md#asynchronism)
 
-At the very least make sure that you understand the underlying functionality and that you will be able to work with the syntax when given to you, e.g., from a framework.
+>At the very least make sure that you understand the underlying functionality and that you will be able to work with the syntax when given to you, e.g., from a framework.
 
-If you are more advanced, make sure that your understand Closures, Promises and Async and Await.
+>If you are more advanced, make sure that your understand Closures, Promises and Async and Await.
 
 _Submission:_ ✅
 
@@ -62,32 +50,62 @@ _Submission:_ ✅
 
 ### Task 04.03 - Your Own Scene
 
-Create a Three.js scene up to your liking. There are no constraints for what the scene should be. The result should be polished and will be graded on concept, form / design and implementation quality.
+>Create a Three.js scene up to your liking. There are no constraints for what the scene should be. The result should be polished and will be graded on concept, form / design and implementation quality.
 
-You are required to use additional functionality that you haven't yet used last week. Check the [three.js manual](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene) or [the examples](https://threejs.org/examples/#webgl_animation_keyframes) for inspiration.
+>You are required to use additional functionality that you haven't yet used last week. Check the [three.js manual](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene) or [the examples](https://threejs.org/examples/#webgl_animation_keyframes) for inspiration.
 
-_Submission_: Link in your markdown submission file at least one result image or video of your work. Also, submit the required source files, and your package.json for me to `npm install` and `npm run` your project. If your are using a different environment than npm, let me know which steps to follow and make sure that the required steps to run your project are **easy** and **fast** (make it easy on other developers to run your code, it will make their life easier and they will be more likely to help you).
+>_Submission_: Link in your markdown submission file at least one result image or video of your work. Also, submit the required source files, and your package.json for me to `npm install` and `npm run` your project. If your are using a different environment than npm, let me know which steps to follow and make sure that the required steps to run your project are **easy** and **fast** (make it easy on other developers to run your code, it will make their life easier and they will be more likely to help you).
+👀 **Visual Result:** the live version shows more detail and the interaction of course
+
+### 🔗 **Live Demo:**  [here](https://boxnixta.github.io/russmaennchen-cursor/).
+
+### 💻 **Source Code:**  [here](https://github.com/Boxnixta/russmaennchen-cursor.git).
+
+ <p align="center">
+  <img src="gif/04-03.gif" alt="Bubbles in a Room" width="100%">
+  <br>
+  <p align="center">
+  <img src="img/04-01.png" width="32%">
+  <img src="img/04-03.png" width="27%">
+  <p align="center">
+  
+  <em>Klick and move the cursor to enjoy the cuteness.</em>
+ <p align="center">
+  <img src="img/04-02.png" width="27%">
+  <img src="img/04-04.png" width="40%">
+  <img src="img/04-05.png" width="40%">
+   <p align="center">
 
 ## Learnings
 
-Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?
+>Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?
 
-_Submission_: Text or bullet points in your markdown submission file.
+>_Submission_: Text or bullet points in your markdown submission file.
+
+- Herausforderung: Dependency-Management & Versionen:
+
+  - Ich habe gelernt, dass die Installation von Bibliotheken (wie @react-three/postprocessing) zu Versionskonflikten führen kann (E-RESOLVE Fehler).
+
+    - Lösung: Die Verwendung von --legacy-peer-deps hilft, wenn Bibliotheken noch nicht für die allerneueste React-Version (v19) aktualisiert wurden.
+
+- Herausforderung: Debugging in Three.js:
+
+  - Eine der größten Hürden war, als die Szene plötzlich "weiß" oder "unsichtbar" wurde. Ich habe gelernt, die Browser-Konsole zu nutzen, um ReferenceErrors (wie fehlende React-Imports) zu finden.
+
+  - Ich habe verstanden, dass Postprocessing-Effekte (wie Bloom) die gesamte Szene unsichtbar machen können, wenn ein Fehler im Setup vorliegt.
+
+- Herausforderung: Mathematische 3D-Logik:
+
+  - Das Erstellen einer organischen Form (Konpeitō-Sternchen) war schwierig. Ich habe gelernt, dass man Geometrien (Kegel) nicht nur platzieren, sondern auch ausrichten (quaternion, lookAt) muss, damit sie vom Zentrum wegzeigen.
+
+  - Die Umrechnung von Maus-Pixeln in 3D-Koordinaten (viewport vs. feste Faktoren) war entscheidend für ein präzises "Maus-Gefühl".
+- Asynchronität in der Praxis:
+
+  - Durch die Arbeit mit useEffect und Event-Listenern habe ich praktisch gesehen, wie asynchroner Code (Mausbewegungen) in eine laufende Animation (useFrame) einfließt, ohne das Programm zu blockieren.
 
 ---
 
-Write and link all task results in a copy of this file. Submit your copy as `cc1_ws2526_XX_lastname.md` in your assignments' folder.
 
-Please add the following header at the beginning of your Markdown file:
 
-```md
----
-layout: default
-title: Homework
-nav_exclude: true
----
-```
 
----
 
-**Happy Building!**
