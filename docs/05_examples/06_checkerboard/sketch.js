@@ -137,3 +137,4 @@ function draw() {
   textSize(12);
   text("Cell size: " + nf(dynamicSize, 1, 1), 500, 450);
 }
+
