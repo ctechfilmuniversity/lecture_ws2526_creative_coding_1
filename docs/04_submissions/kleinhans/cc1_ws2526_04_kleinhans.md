@@ -7,11 +7,6 @@ nav_exclude: true
 ---
 ```
 
-# Creative Coding I
-
-Jonathan Ho \| jonathan.g.ho@filmuniversitaet.de
-Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF
-
 # Session 04 - Asynchronism / Space Again (15 points)
 
 Please complete this session by February 11th. Completing the session should take < 6h.
@@ -65,7 +60,6 @@ Reflect on your usage of resources and Machine Learning tools for coding.
   * after a couple of usages recreating on my own gets easier! -> but it feels very important to try to understand, otherwise there will not be a learning process 
 
   
-
   *Recommendations:*
   * not to ask for final code but asking for an explaination of the approach / starting point / specific problems/syntax
 
@@ -73,7 +67,6 @@ Reflect on your usage of resources and Machine Learning tools for coding.
   * I would like to copy as less as possible from ML 
   * look more into example files / online shared code instead
   
-
 
 ## Three.js
 
@@ -83,7 +76,19 @@ Create a Three.js scene up to your liking. There are no constraints for what the
 
 You are required to use additional functionality that you haven't yet used last week. Check the [three.js manual](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene) or [the examples](https://threejs.org/examples/#webgl_animation_keyframes) for inspiration.
 
-_Submission_: Link in your markdown submission file at least one result image or video of your work. Also, submit the required source files, and your package.json for me to `npm install` and `npm run` your project. If your are using a different environment than npm, let me know which steps to follow and make sure that the required steps to run your project are **easy** and **fast** (make it easy on other developers to run your code, it will make their life easier and they will be more likely to help you).
+<br>
+
+_Submission_: **The door of Gondor**
+
+[Link to my Git Repository (Folder cc1_ws2526_04_kleinhans)](https://github.com/kathapult/cc1_ws2526_assignments_kleinhans.git)
+
+[Direct Link to Folder](https://github.com/kathapult/cc1_ws2526_assignments_kleinhans/tree/main/cc1_ws2526_04_kleinhans)
+
+[Link to Preview Video ](https://owncloud.gwdg.de/index.php/s/kxTc7OCOBxS2Da6)
+
+
+
+![abstraction-scene](./imgs/CC_04_KK_tree-of-gondor.png)
 
 ## Learnings
 
