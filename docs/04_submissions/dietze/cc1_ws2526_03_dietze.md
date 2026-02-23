@@ -132,8 +132,13 @@ For this task there is no need to go beyond the three.js basic elements that we 
 *Submission*: Link in your markdown submission file at least one result image or video of your work. Also, submit the required source files, and your package.json for me to `npm install` and `npm run` your project. If your are using a different environment than npm, let me know which steps to follow and make sure that the required steps to run your project are **easy** and **fast** (any setup that takes more than 5 minutes for me to re-create or need heavy installations, I am most likely not doing).
 
 ![Image](./img/Cubes.png)  
-Traped with Mondrian
+Trapped with Mondrian
 
+Folder: 
+sub_03_dietze
+
+Video and alternative download:
+https://owncloud.gwdg.de/index.php/s/hFHGj80hY0lFZMN
 
 
 ## Learnings

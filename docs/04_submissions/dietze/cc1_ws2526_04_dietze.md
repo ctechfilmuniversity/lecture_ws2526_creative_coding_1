@@ -81,7 +81,17 @@ You are required to use additional functionality that you haven't yet used last 
 
 _Submission_: 
 Make it Rain
+>![image](./img/r1.png)  
+>![image](./img/r2.png)  
 
+A simple particle simulation
+
+
+Folder: 
+sub_03_dietze
+
+Video and alternative download:
+https://owncloud.gwdg.de/index.php/s/0QXz5e1ZFUyHBHG
 
 
 
@@ -89,4 +99,4 @@ Make it Rain
 
 Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?
 
-_Submission_: I feel like my takes on working with Machine Learning are a reflection of my learnings and struggles. 
+_Submission_: I feel like my takes on working with Machine Learning are a reflection of my learnings and struggles are my learnings and challenges. 

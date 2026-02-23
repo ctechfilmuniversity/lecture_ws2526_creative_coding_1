@@ -98,9 +98,12 @@ Submit your code in your assignment folder as assignment `05` or add a link ther
 
 - What do you think about the context expansions, e.g., the brief general discussions of certain topics?
 
-    Very much usefull, but sometimes a´hard to comprehend in the limited timeframe we had. 
+    Very much usefull, but sometimes hard to comprehend in the limited timeframe we had. 
 
 - Which one was your favorite topic, which one your least favorite?
+
+I would generally say the easier ones with direct impact of what we where doing. More abstract concepts, which were hard to wrap your head around and weren’t directly useful in the projects we did didn’t really stick. 
+
 - Was there a topic missing and if so which one?
 
 I can really say if there was a topic missing. I can only say, if someone recommends a topic to cover it should replace another topic otherwise the information load becomes to much. 
