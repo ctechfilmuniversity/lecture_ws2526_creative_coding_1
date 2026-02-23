@@ -1,0 +1,161 @@
+:root {
+  font-family: system-ui, sans-serif;
+  color-scheme: light dark;
+  margin: 0;
+  padding: 0;
+  background-color: #1a1a1a;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
+#ui-overlay {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(30, 30, 30, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  z-index: 10;
+}
+
+.custom-select {
+  position: relative;
+  width: 100px;
+}
+
+.select-selected {
+  background: #333;
+  border: 1px solid #555;
+  border-radius: 0.5rem;
+  color: #fff;
+  padding: 0.5rem 2.5rem 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.select-selected::after {
+  content: '▼';
+  font-size: 0.7rem;
+  color: #fff;
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.select-selected:hover {
+  background: #444;
+  border-color: #777;
+}
+
+.select-items {
+  position: absolute;
+  background: rgba(40, 40, 40, 0.95);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  margin-bottom: 0.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  z-index: 99;
+  overflow: hidden;
+  border: 1px solid #555;
+  display: flex;
+  flex-direction: column;
+}
+
+.select-items div {
+  color: #fff;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.2s;
+}
+
+.select-items div:hover {
+  background-color: #555;
+}
+
+.select-hide {
+  display: none;
+}
+
+.same-as-selected {
+  background-color: #ff3366;
+  color: #fff;
+}
+
+button {
+  appearance: none;
+  background: #ff3366;
+  border: 1px solid #ff3366;
+  border-radius: 0.5rem;
+  color: #fff;
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 10px rgba(255, 51, 102, 0.3);
+}
+
+button:hover {
+  background: #ff5588;
+  border-color: #ff5588;
+  box-shadow: 0 6px 15px rgba(255, 51, 102, 0.4);
+}
+
+.select-selected:active, button:active {
+  transform: scale(0.97);
+}
+
+#result-display {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 6rem;
+  font-weight: 800;
+  color: #fff;
+  background: rgba(30, 30, 30, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 2rem 4rem;
+  border-radius: 1.5rem;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.6);
+  z-index: 5;
+  pointer-events: none;
+  animation: popIn 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#result-display:empty {
+  display: none;
+}
+
+@keyframes popIn {
+  from { 
+    opacity: 0; 
+    transform: translate(-50%, -50%) scale(0.8); 
+  }
+  to { 
+    opacity: 1; 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+}

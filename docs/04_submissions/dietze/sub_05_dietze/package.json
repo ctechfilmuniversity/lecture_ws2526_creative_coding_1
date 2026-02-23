@@ -1,0 +1,23 @@
+{
+  "name": "dicy-roll",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "deploy": "pnpm run build && pnpx vercel --prod"
+  },
+  "devDependencies": {
+    "@types/three": "^0.183.1",
+    "typescript": "~5.9.3",
+    "vercel": "^50.22.1",
+    "vite": "^7.3.1"
+  },
+  "packageManager": "pnpm@10.30.1+sha512.3590e550d5384caa39bd5c7c739f72270234b2f6059e13018f975c313b1eb9fefcc09714048765d4d9efe961382c312e624572c0420762bdc5d5940cdf9be73a",
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "three": "^0.183.1"
+  }
+}
