@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>dicy-roll</title>
+  </head>
+  <body>
+    <div id="result-display"></div>
+
+    <div id="ui-overlay">
+      <div class="custom-select" id="dice-select-container">
+        <div class="select-selected" id="dice-selected">d6</div>
+        <div class="select-items select-hide" id="dice-options">
+          <div data-value="d2">d2</div>
+          <div data-value="d4">d4</div>
+          <div data-value="d6" class="same-as-selected">d6</div>
+          <div data-value="d8">d8</div>
+          <div data-value="d10">d10</div>
+          <div data-value="d12">d12</div>
+          <div data-value="d20">d20</div>
+          <div data-value="d100">d100</div>
+        </div>
+      </div>
+      <button id="roll-button">Roll</button>
+    </div>
+    
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
