@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session
+title: Homework
 nav_exclude: true
 ---
 
@@ -77,28 +77,26 @@ Please answer the following questions truthfully so that I can set up the lectur
     * [ ] Intermediate
     * [ ] Advanced
     * [ ] God-like
-* Are there any specific topics that would interest you in the context of this lecture and that haven't been mentioned so far? *If not, you can skip this question.*
-* Is there anything else that you would like me to know regarding this class? *If not, you can skip this question.*
+  
 
+* Are there any specific topics that would interest you in the context of this lecture and that haven't been mentioned so far? 
 
-*Submission*: Mark the boxes in the above text in your markdown submission file.  
-
+I am generally interested in understanding the basics of coding because I only "vibe-coded" with Chat-GPT in past projects. I would love to familiarize myself with a few things to in the future use coding as a tool. I want to seek out coding as a problem solution and not only code when its strictly necessary. 
 
 
 ## Introduction
 
-Recapture [Script 01 - Introduction](../../02_scripts/cc1_ws2425_01_intro_script.md), if need be.
-
-*Submission*: -
-
+Recapture [Script 01 - Intr oduction](../../02_scripts/cc1_ws2425_01_intro_script.md), if need be.
 
 ### Task 01.02
 
-Think a bit about your own personal motivation to learn creative coding. What would you like to do with coding and the topics in this class? What kind of final creative coding project are you envisioning after the first session? 
+Personal motivation for coding and final creative coding project:
 
+Motivation:
+My motivation is manly that I no longer want coding to be a subject I scare away from. I know from my work in Unity or TouchDesigner, that I could have made a few interaction way easier on me if coding were more familiar for me. I think my big goal is that I no longer want to be annoyed by or be scared of a project that requires coding. 
 
-*Submission*: Text or bullet points in your markdown submission file.  
-
+Final Project Idea:
+I would want to have something visual with which there is a sort of interaction. Something like a particle simulation with different user exposed parameters or some visual filters which the userer can change inputs of.
 
 
 ### Task 01.03
@@ -106,7 +104,24 @@ Think a bit about your own personal motivation to learn creative coding. What wo
 Find an existing creative coding project that you like. Coding needs to play a significant role for the project, also ideally it is web-based (this is not a hard requirement). Describe what you like about the project and why you think that the project represents creative coding.
 
 
-*Submission*: A short text and links to any other material you would like to add (weblinks, images, videos) in your markdown submission file.  
+*Submission*: 
+An example for creative coding and integrating touch interaction are almost all SchultzSchultz tools. I picked out “Toch Type” as one I find very interesting. 
+
+Small note: You need to be on mobile or use a touch screen and need to create an account but its free.
+
+Website:
+
+https://schultzschultz.com/
+
+Demonstration Video:
+
+https://www.instagram.com/reel/DL5XIkGs1St/?igsh=MTN6ZzNmZjByMmtrdQ==
+
+Its a tool to create text and modulate every letter of a font. What makes it particularly interesting for me as a coding exercise is that it has a lot of value as a tool. It’s not inherently beautiful or a massive project but by giving users the opportunity to play with it and make own creations its virtually limitless. 
+
+I think it’s a great example for the possibility's of creative coding because the base idea is simple (the code may be more complex integrating touch etc.) but the sum of what it is feels larger than the parts its made of. 
+
+It is also easy to get started, an interesting reimagination of UI/UX and fun to play with as a user.
 
 
 ## p5
@@ -123,8 +138,15 @@ For the coding of this session, it is sufficient to use p5's [online editor](htt
 
 *Tip*: Right-click on the canvas in the p5 editor and chose `Save image as...` to save an image of your canvas.
 
-*Submission*: -
+*Submission*: 
 
+![Image](./img/Circles.png)  
+
+Link:
+https://editor.p5js.org/Pucky-png/full/9l0xZbmcY
+
+
+My first little  random p5 Code
 
 ### Task 01.05 - The 10 PRINT pattern
 
@@ -138,8 +160,15 @@ If you have further ideas about how to design the pattern but do not manage to i
 *Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
 
 
-*Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
+*Submission*: 
 
+![image](./img/Plus_and_Minus.png)  
+
+Link:
+https://editor.p5js.org/Pucky-png/full/0UhLDGElo
+
+I wanted to keep it simple with this task and played around with different symbols and was quite happy with this result. It reminded me of the crosses from Neon Genesis Evangelion. Even though I didn’t plan on it looking like that I feel like its emblematic for creative coding where you can be surprised by the result. 
+![image](./img/nge_cross.jpg)
 
 ## Task 01.06 - Greeting Card
 
@@ -162,15 +191,32 @@ If you have programming experience already, I expect that you go beyond p5's bas
 
 *Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
 
-*Submission*: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch.
+*Submission*: 
 
-  
+![image](./img/Card.png)  
+
+Link:
+https://editor.p5js.org/Pucky-png/full/Js4wdHiV1
+
+When you move the mouse it snows.
 
 ## Learnings
 
 Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?
 
-*Submission*: Text or bullet points in your markdown submission file.  
+*Submission*:
+
+Plus and Minus:
+
+When searching for probability I found floor to cut of everything behind the point. This returns full numbers and made it easier to integrate more options. probability in this case also has to be behind the draw function because it is redefined for every symbol (although I forgot that random 3 would go from 0-2 and struggled with that for a while).
+
+Card:
+
+Some concepts are a bit harder to search for when you try to avoid LLMs to learn p5. In the beginning of my project there was always one snowflake drawn per frame and when searching I found that I had to use instances of that one snowflake. 
+
+There are many ways to integrate an Idea and looking into tutorials when you have already started sometimes isn’t helpful if you want to keep the code that you have. 
+
+Some of the “best practice approaches” aren’t as beginner friendly because more advanced programmers try to work with variables in multiple positions or keep there workflow in a way so that every feature is separate and can be removed/changed later. This approach makes it hard for novices to comprehend why something is being added and one can fall into the trap of copying without understanding.
 
 
 ---
