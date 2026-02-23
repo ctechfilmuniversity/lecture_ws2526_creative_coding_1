@@ -84,7 +84,7 @@ https://owncloud.gwdg.de/index.php/s/igGR29fwrjX9R1C
 ### What is it?
 Dicy Roll is a pretty dice roller  website. 
 
-When you arrive to your pen and paper rollplaying session, let’s say your playing D&D with your friends, you reach into your backpack and … OH NO!!! You forgot your dice! Susan isn’t gonna borrow you any of her dice anymore… at least since you ate the pink one, thinking it was candy. 
+When you arrive to your pen and paper rollplaying session, let’s say your playing D&D with your friends, you reach into your backpack and … OH NO!!! You forgot your dice! Susan isn’t let you gonna borrow any of her dice anymore… at least since you ate the pink one, thinking it was candy. 
 
 But no need to worry, there is an app for that!
 
