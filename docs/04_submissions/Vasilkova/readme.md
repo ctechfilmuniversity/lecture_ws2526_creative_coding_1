@@ -1,4 +1,4 @@
-
+# FINAL PROJECT CC1
 # FM Drone Synth (RNBO + C++ + Custom GUI)
 
 ## Project Overview
