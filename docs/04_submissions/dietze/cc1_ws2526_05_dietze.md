@@ -268,18 +268,5 @@ Bye-bye
 
 ---
 
-Write and link all task results in a copy of this file. Submit your copy as `cc1_ws2526_XX_lastname.md` in your assignments' folder.
 
-Please add the following header at the beginning of your Markdown file:
-
-```md
----
-layout: default
-title: Homework
-nav_exclude: true
----
-```
-
----
-
-**Happy Evolving!**
+**Thanks Jonathan!**

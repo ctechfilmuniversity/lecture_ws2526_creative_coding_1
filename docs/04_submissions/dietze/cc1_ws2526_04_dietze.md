@@ -9,15 +9,7 @@ nav_exclude: true
 
 # Session 04 - Asynchronism / Space Again (15 points)
 
-Please complete this session by February 11th. Completing the session should take < 6h.
 
-- [Session 04 - Asynchronism / Space Again (15 points)](#session-04---asynchronism--space-again-15-points)
-  - [JavaScript Functions \& Asynchronism](#javascript-functions--asynchronism)
-    - [Task 04.01](#task-0401)
-    - [Task 04.02 - Coding Practices](#task-0402---coding-practices)
-  - [Three.js](#threejs)
-    - [Task 04.03 - Your Own Scene](#task-0403---your-own-scene)
-  - [Learnings](#learnings)
 
 In this session we are dealing with the topic of _asynchronism_, where we encounter it in every day life and what it means for us as humans. In terms of tech, this session introduces you to some web-specific JavaScript functionality and syntax, which we will need in the upcoming sessions.
 
@@ -36,7 +28,7 @@ At the very least make sure that you understand the underlying functionality and
 
 If you are more advanced, make sure that your understand Closures, Promises and Async and Await.
 
-_Submission:_ -
+_Submission:_ Done
 
 ### Task 04.02 - Coding Practices
 

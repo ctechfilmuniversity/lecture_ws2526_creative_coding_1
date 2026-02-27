@@ -14,19 +14,6 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  \| Film University Babe
 
 # Session 03 - Space (10 points)
 
-Please complete this session by January 28th. Completing the session should take < 5h.  
-
-
-- [Creative Coding I](#creative-coding-i)
-- [Session 03 - Space (10 points)](#session-03---space-10-points)
-  - [Local Installation](#local-installation)
-    - [Task 03.01 - Your First Scene](#task-0301---your-first-scene)
-  - [three.js](#threejs)
-    - [Task 03.02 - Local Project Setup](#task-0302---local-project-setup)
-    - [Task 03.03 - Your First Scene](#task-0303---your-first-scene)
-  - [Learnings](#learnings)
-
-
 In this session we are dealing with the topic of _space_ and what types of virtual spaces we are working with. In terms of tech, this session introduces you to the JavaScript library [`Threejs`](https://threejs.org/), which is a good choice if you want to build 3D scenes in a browser.
 
 ## Local Installation
@@ -36,7 +23,7 @@ In this session we are dealing with the topic of _space_ and what types of virtu
 * [Install node, nvm and npm](https://nodejs.org/en/download)
 * Verify a correct installation with executing `node -v` and `npm -v` in the terminal
 
-*Submission:* -
+*Submission:* Yeah
 
 ## three.js
 
@@ -84,27 +71,9 @@ Task 03.02 should be developed with a proper local installation. For that you ca
 Build a three dimensional, geometric scene. With geometric I mean that the scene should focus on abstract geometry - also think *sculptural*. Remember: exceptional creativity often emerges out of constraints and refrainment 😎. You could (but don't have to) find inspiration in the following art work. 
 
 
-![mondrian_01](img/mondrian_01.png)  
+![mondrian_01](../../01_sessions/03_space/img/mondrian_01.png)  
 [[Composition A, Piet Mondriaan, 1923]](https://www.wikiart.org/de/piet-mondrian/composition-a-1923) 
 
-![kandinsky_02](img/kandinsky_02.jpg)  
-[[Several Circles, Wassily Kandinsky, 1926]](https://en.wikipedia.org/wiki/File:Vassily_Kandinsky,_1926_-_Several_Circles,_Gugg_0910_25.jpg)
-
-![balazova_01](img/balazova_01.jpg)  
-[[Hadia geometria 36 – Alphabet 1, Mária Balážová, 1956]](https://www.1stdibs.com/art/prints-works-on-paper/abstract-prints-works-on-paper/yaacov-agam-thanksgiving/id-a_13123922/) 
-
-![waldheims_01](img/waldheims_01.jpg)  
-[[ Drawing #220, Zanis Waldheims, 1969]](https://post.moma.org/zanis-waldheims/) 
-
-![agam_01](img/agam_01.png)  
-[[Thanksgiving, Yaacov Agam, 1980]](https://www.1stdibs.com/art/prints-works-on-paper/abstract-prints-works-on-paper/yaacov-agam-thanksgiving/id-a_13123922/) 
-
-
-![lewitt_01](img/lewitt_01.png)  
-[[Wall Drawing #564, Sol LeWitt, 1988]](https://www.nytimes.com/2013/09/06/arts/design/sol-lewitt.html) 
-
-![molnar_01](img/molnar_01.jpg)  
-[[Dürer, Pair Impair A, Vera Molnar, 2021]](https://www.apollonia-art-exchanges.com/en/vera-molnar/) 
 
 
 <br >
@@ -118,9 +87,6 @@ Build a three dimensional, geometric scene. With geometric I mean that the scene
 > How about using time as an creative tool? Could there be movement?
 
 <br >
-
-![abstractions_10](img/abstractions_10.jpg)  
-[[The Moving Moment When I Went To The Universe, Yayoi Kusama, 2018]](https://ocula.com/art-galleries/victoria-miro-gallery/exhibitions/yayoi-kusama/)  
 
 ---
 
@@ -152,21 +118,4 @@ Three JS is challenging in the sense, that a the basic setup requires commands, 
 I was able to offload some of the creation of the 3d models to Chat-GPT, by placing cubes In spaces, giving it my script and describing how I want three-dimensional representations of Mondrian's paintings in those places. 
 
 
----
 
-Write and link all task results in a copy of this file. Submit your copy as `cc1_ws2526_XX_lastname.md` in your assignments' folder.
-
-Please add the following header at the beginning of your Markdown file:
-
-```md
----
-layout: default
-title: Homework
-nav_exclude: true
----
-```
-
----
-
-
-**Happy Three Dimensioning!**

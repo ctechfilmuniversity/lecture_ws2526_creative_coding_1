@@ -12,44 +12,13 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  \| Film University Babe
 
 # Session 01 (20 points)
 
-This session is all about diving into the topic of creative coding and getting started and excited 😊.
-
-Complete this session by January 14. Going through the scripts and answering the questions should take < 8h. This session is graded on concept, form, engineering quality, effort and personal learnings.
-
-**Announcement: On Friday, Jan. 10, 14:00-16:00, room 6119, I offer an optional CC1 session, where I am answering your coding questions and review your code if you like.**
-
-<!-- $${\color{lightgreen}
-\text{Announcement: On Friday, Jan. 10, 14:00-16:00, room 6119, I offer an optional session, where I am answering your coding questions and review your code if you like.}}$$ -->
-
-
-
-
-- [Creative Coding I](#creative-coding-i)
-- [Session 01 (20 points)](#session-01-20-points)
-  - [Syllabus and Administration](#syllabus-and-administration)
-    - [Task 01.01](#task-0101)
-  - [Topics](#topics)
-    - [Task 01.02](#task-0102)
-  - [Introduction](#introduction)
-    - [Task 01.02](#task-0102-1)
-    - [Task 01.03](#task-0103)
-  - [p5](#p5)
-    - [Task 01.04 - p5 With The Online Editor](#task-0104---p5-with-the-online-editor)
-    - [Task 01.05 - The 10 PRINT pattern](#task-0105---the-10-print-pattern)
-  - [Task 01.06 - Greeting Card](#task-0106---greeting-card)
-  - [Learnings](#learnings)
-
-## Syllabus and Administration
-
-Read the [Syllabus](../../index.md) carefully and know how this class works and what I expect of you.
 
 ### Task 01.01
 
 Are there any open questions regarding the syllabus and the administration of this course? If so, please mention them next class.
 
-*Submission*: -
+*Submission*: None
 
-## Topics
 
 ### Task 01.02
 
@@ -154,10 +123,6 @@ Write a sketch that generates a pattern with a similar logic as the 10 PRINT exa
 
 If you have further ideas about how to design the pattern but do not manage to implement them, also submit your ideas as text or image.
 
-![pattern_medium](./img/pattern_medium.gif)  
-[Credits to be added]
-
-*Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
 
 
 *Submission*: 
@@ -178,18 +143,9 @@ Design and implement an interactive greeting card. It can be a holiday card, but
 
 Recognize your available skills when coming up with ideas. Some of the best results to this task that I saw over the years have been from beginners!
 
-A nice example for very basic programming with a creative idea, is Rita's card:
-
-<!-- <iframe src="https://editor.p5js.org/legie/full/wmTwrpPWx"></iframe> -->
-
-[![cookie_rita_01](./img/cookie_rita_01.png)](https://editor.p5js.org/legie/full/wmTwrpPWx)  
-  
-Rita had no programming experience and this task was one of her first programming attempts. While her code is really *not ideal*, she had a great idea for the skill level she had, and she made it work.
 
 If you have programming experience already, I expect that you go beyond p5's basic interaction mechanism! For example, you could use some form of input live-stream as interaction. The easiest input is to use a webcam. Creating a webcam feed can be done with [`createCapture()`](https://p5js.org/reference/#/p5/createCapture). For working with video, the [ml5 library](https://ml5js.org/) offers many interesting functionality extensions based on machine learning.
 
-
-*Note*: You are free to choose a different programming language, environment, library, etc. for this task, but it must be text-based programming. If you are a beginner, I highly recommend that you stick with p5. 
 
 *Submission*: 
 
@@ -219,22 +175,3 @@ There are many ways to integrate an Idea and looking into tutorials when you hav
 Some of the “best practice approaches” aren’t as beginner friendly because more advanced programmers try to work with variables in multiple positions or keep there workflow in a way so that every feature is separate and can be removed/changed later. This approach makes it hard for novices to comprehend why something is being added and one can fall into the trap of copying without understanding.
 
 
----
-
-Write and link all task results in a copy of this file. Submit your copy as `cc1_ws2425_XX_lastname.md` in your assignments' folder.
-
-Please add the following header at the beginning of your Markdown file:
-
-```md
----
-layout: default
-title: Homework
-nav_exclude: true
----
-```
-
-This will prevent your file showing up in CC1's webpage navigation bar.
-
----
-
-**Happy Emerging!**

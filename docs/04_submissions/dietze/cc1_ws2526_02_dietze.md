@@ -10,28 +10,13 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 # Session 02 - Instruction (10 points)
 
-Please complete this session by January 21st. Since we did not cover local server setup yet, you can stop after the Completing the session should take < 5h.
 
-In this session we are going to think about the topic of _instructions_ and what the different forms in which instructions can be given. In terms of tech this session is about continuing programming with p5 and getting some coding done!
-
-- [Creative Coding I](#creative-coding-i)
-- [Session 02 - Instruction (10 points)](#session-02---instruction-10-points)
-    - [Tools and Environments](#tools-and-environments)
-  - [Instructions](#instructions)
-    - [Task 02.01 - _Coding_](#task-0201---coding)
-    - [Task 02.02 - _Coding_](#task-0202---coding)
-    - [Task 02.03 - _Algorithmic Thinking_](#task-0203---algorithmic-thinking)
-    - [Task 02.04 - _Creative Instructions_](#task-0204---creative-instructions)
-    - [We will get to Script 06 - The Web at a later class, so you're not expected to know / do this part until after the break.](#we-will-get-to-script-06---the-web-at-a-later-class-so-youre-not-expected-to-know--do-this-part-until-after-the-break)
-  - [The Web](#the-web)
-    - [Task 02.05 - _Working With a Local Server_](#task-0205---working-with-a-local-server)
-  - [Learnings](#learnings)
 
 ### Tools and Environments
 
 Are there any languages, tools or environments for creative coding that you know of, that you can recommend, and which are not included in the script? _If not, you can skip this question._
 
-_Submission_: Text or bullet points in your markdown submission file.
+_Submission_: None
 
 ## Instructions
 
@@ -120,13 +105,14 @@ Air Hockey:
 8. Get pizza after
 9. Increases friendship level
 10. Repeat until you win
-    …
-97. Win
-98. No longer know what to do
-99. System Error
----
 
-### We will get to [Script 06 - The Web](../../02_scripts/cc1_ws2425_06_web_script.md) at a later class, so you're not expected to know / do this part until after the break.
+    …
+
+    97 . Win
+
+    98 . No longer know what to do
+
+    99 . System Error
 
 ---
 
@@ -146,7 +132,7 @@ No need to submit anything, but I expect that you are ready to work with a local
 
 _Submission_: 
 
-This would be the perfect place to put a local link and show that it worked and in the same motion demonstrate a total lack of understanding. 
+This would be the perfect place to put a local link and show that it worked and in the same motion demonstrate a total lack of understanding. :)
 
 ## Learnings
 
@@ -160,20 +146,3 @@ Sending my program and asking Chat-GPT to format it correctly was also a great w
 
 
 
----
-
-Write and link all task results in a copy of this file. Submit your copy as `cc1_ws2425_XX_lastname.md` in your assignments' folder.
-
-Please add the following header at the beginning of your Markdown file:
-
-```md
----
-layout: default
-title: Homework
-nav_exclude: true
----
-```
-
----
-
-**Happy Instructing!**
