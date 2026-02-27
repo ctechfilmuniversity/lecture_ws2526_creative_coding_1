@@ -15,12 +15,14 @@ Circles!
 > https://github.com/MariaJende/cc1_ws2526_02_jende_01
 > 
 >View Project:
-> https://mariajende.github.io/cc1_ws2526_02_jende_01/
-> >
+> https://cc102jende01.vercel.app/
+> 
 > View Video of Project:
 > https://owncloud.gwdg.de/index.php/s/qstVvOtOnH14lWe
 >
 > Inspired by https://medium.com/@banyapon/creating-an-engaging-rhythm-circle-with-creative-coding-in-three-js-2eeac9df1fe2 by Banyapon Poolsawas
+
+![](https://github.com/MariaJende/LinkedFiles/blob/main/cc1_ws2526_02_jende_01.gif)
 
 ### Task 02.02 - _Coding_
 

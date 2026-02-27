@@ -18,13 +18,15 @@ Abstract sculpture that randomly reshapes with every page refresh.
 
 > Access Project Files:
 > https://github.com/MariaJende/cc1_ws2526_03_jende_03
-> 
+>
 > View Project:
-> https://mariajende.github.io/cc1_ws2526_03_jende_03/
-> >
+> https://cc1ws252603jendesculpture.vercel.app/
+>
 > View Video of Project:
 > https://owncloud.gwdg.de/index.php/s/BNAZ1G6m312k8TV
-> 
+
+![](https://github.com/MariaJende/LinkedFiles/blob/main/cc1_ws2526_03_jende.gif)
+
 ## Learnings
 
 Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?
