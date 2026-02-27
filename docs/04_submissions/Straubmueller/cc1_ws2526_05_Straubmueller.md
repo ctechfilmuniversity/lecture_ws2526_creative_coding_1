@@ -70,7 +70,8 @@ The visual style combines baked lighting from Blender with a real-time web-based
 ![Final Submission 01](<img/260223_CC1_Session05_Task 05-01_finalSubmission-04.png>)
 
 - [Click here for the video/images](https://owncloud.gwdg.de/index.php/s/UFKJ6D2E8mikHPV)
-- [Click here for the source file](https://owncloud.gwdg.de/index.php/s/j6T9kwDJ1EvYFOY)
+- [Click here for the source file (OwnCloud)](https://owncloud.gwdg.de/index.php/s/GGnqwrWWyxt4q9k)
+- [Click here for the source file (GitHub)](<./cc1_ws2526_05_straubmueller/>)
 
 - [Click here to view the project](https://do-not-touch.vercel.app/)
 
