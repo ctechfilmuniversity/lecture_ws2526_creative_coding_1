@@ -1,25 +1,20 @@
 ---
 layout: default
-title: Session
+title: Homework
 nav_exclude: true
 ---
-
 
 # Creative Coding I - Submissions 1
 
 > Bonita von Gizycki | bonita.gizycki@filmuniversitaet.de
 
-> Film University Babelsberg KONRAD WOLF
-  
+>Film University Babelsberg KONRAD WOLF
 
 # Session 01 (20 points)
-
 
 ### Task 01.01
 
 > *Are there any open questions regarding the syllabus and the administration of this course? If so, please mention them next class.*
-
-/
 
 ## Topics
 
@@ -82,11 +77,7 @@ Because it very directly demonstrates how code can be used as a creative medium.
 
 Patatap is based entirely on web technologies such as HTML5, JavaScript, and the Web Audio API. The code doesn't simply create static content but generates **real-time audio and dynamic visuals** that react to user input. It's not a "web form" or an "information project" but an **artistic, interactive experience** created through algorithms and programming.
 
-*Quelle*: https://www.creativeapplications.net/project/patatap-portable-animation-and-sound-kit-by-jonobr1-and-lullatone/?utm_source=chatgpt.com
-
-
-
-
+*Quelle*: [Hier](https://www.creativeapplications.net/project/patatap-portable-animation-and-sound-kit-by-jonobr1-and-lullatone/?utm_source=chatgpt.com)
 
 ## Task 01.04 - p5 With The Online Editor
 I used the p5.js online editor to create a simple interactive sketch. I made a canvas where a circle follows the mouse.
@@ -109,14 +100,9 @@ I used the p5.js online editor to create a simple interactive sketch. I made a c
 ## Task 01.06 - Greeting Card
 
 > ### Open it in a new tab: [Open Sketch](https://editor.p5js.org/Boxnixta/full/54LQfRluB)
-
 > ### p5.js Web Editor insight: [Open Insight](https://editor.p5js.org/Boxnixta/sketches/54LQfRluB)
 
-
 ![alt text](<gif/Bildschirmaufnahme 2026-01-09 um 16.13.14.gif>)
-
-
-  
 
 ## Learnings
 
@@ -135,7 +121,3 @@ I used the p5.js online editor to create a simple interactive sketch. I made a c
 + Explored random() to create dynamic visual effects like sweat drops and shaking buttons.
 
 + I also worked with ChatGPT to debug, optimize, and add features to my code.
-
-
----
-
