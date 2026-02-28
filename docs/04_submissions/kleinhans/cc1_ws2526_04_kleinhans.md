@@ -92,7 +92,11 @@ _Submission_: **The door of Gondor**
 
 ## Learnings
 
-Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?
+In this lesson I focused on the creation of the recruisive tree and understanding (or at least trying to understand) the maths behind it.
+Besides this:
 
-_Submission_: Text or bullet points in your markdown submission file.
+- creating instances
+- working with click events
+
+
 
