@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  font-family: sans-serif;
+}
+
+.title {
+  position: absolute;
+  top: 30px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+  font-family: 'Orbitron', sans-serif;
+  text-shadow:
+    0 0 10px #ffffff,
+    0 0 20px #ffffff,
+    0 0 40px #ffffff;
+}
