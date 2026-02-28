@@ -39,29 +39,34 @@ zoomed in on category "About me"
 
 ## Task 05.02 - Feedback
 
-    How would you rate the difficulty of this class from 1 (far too easy) to 5 (far too difficult)?
-    3
-    How would you rate the amount of work you had to put into this class so far from 1 (no work at all) to 5 (far too much work)?
-    2
-    How much did you learn in the class and expanded your skill set, from 1 (I am the same) to 5 (learned a lot)?
-    5
-    How much did you enjoy working with p5, from 1 (hate it) to 5 (love it)?
-    5
-    How useful do you consider p5 for you, from 1 (don't need it) to 5 (will use it all the time)?
-    2.5
-    How much did you enjoy working with tree.js, from 1 (hate it) to 5 (love it)? 4
-    How useful do you consider tree.js for you, from 1 (don't need it) to 5 (will use it all the time)? 4
-    How much did you enjoy working with React, from 1 (hate it) to 5 (love it)?2
-    How useful do you consider React for you, from 1 (don't need it) to 5 (will use it all the time)?3
-    How much did you enjoy working on the exercise tasks, from 1 (hated it) to 5 (loved it)?4
-    What do you think about the context expansions, e.g., the brief general discussions of certain topics?
-    Which one was your favorite topic, which one your least favorite?
-    Favorite topic: I think the most fascinating and therefore my favorite topic was three.js and the implementation of 3D objects on a website. Every Interaction that is possible through that was so interesting. 
-    What I "liked" least: the creation of websites with React. It felt complicated after diving more deep into only threejs/vite and I also felt like there was no "obligation" to learn it through assignements.
+##### How would you rate the difficulty of this class from 1 (far too easy) to 5 (far too difficult)?    
+3
+##### How would you rate the amount of work you had to put into this class so far from 1 (no work at all) to 5 (far too much work)?
 
-    Was there a topic missing and if so which one?
-    Please feel free to add any feedback you want to give!
-    I feel that everyone in the course was always very engaged because every question was addressed and help was always available when technical problems occured. I believe this laid a very good foundation for us to implement our ideas and homework assignments.
+3
+#####    How much did you learn in the class and expanded your skill set, from 1 (I am the same) to 5 (learned a lot)?
+
+5
+##### How much did you enjoy working with p5, from 1 (hate it) to 5 (love it)?
+5
+##### How useful do you consider p5 for you, from 1 (don't need it) to 5 (will use it all the time)?
+2.5
+##### How much did you enjoy working with tree.js, from 1 (hate it) to 5 (love it)? 
+5
+##### How useful do you consider tree.js for you, from 1 (don't need it) to 5 (will use it all the time)? 
+4
+##### How much did you enjoy working with React, from 1 (hate it) to 5 (love it)?
+2
+##### How useful do you consider React for you, from 1 (don't need it) to 5 (will use it all the time)?
+3
+##### How much did you enjoy working on the exercise tasks, from 1 (hated it) to 5 (loved it)?
+4
+##### What do you think about the context expansions, e.g., the brief general discussions of certain topics? Which one was your favorite topic, which one your least favorite?
+Favorite topic: I think the most fascinating and therefore my favorite topic was three.js and the implementation of 3D objects on a website. Every Interaction that is possible through that was so interesting. 
+What I "liked" least: the creation of websites with React. It felt complicated after diving more deep into only threejs/vite and I also felt like there was no "obligation" to learn it through assignements.
+
+##### Was there a topic missing and if so which one? Please feel free to add any feedback you want to give!
+I feel that everyone in the course was always very engaged because every question was addressed and help was always available when technical problems occured. I believe this laid a very good foundation for us to implement our ideas and homework assignments.
 
 ## Learnings
 ### Personal Learnings of Final Project:
