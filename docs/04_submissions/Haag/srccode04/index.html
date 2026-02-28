@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Three.js Szene</title>
+  <style>
+    body { margin: 0; overflow: hidden; background: #202020; }
+    #buttons {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 10px;
+      z-index: 10;
+    }
+    button {
+      padding: 8px 15px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      background-color: #222;
+      color: #fff;
+      transition: 0.2s;
+    }
+    button:hover { background-color: #555; }
+  </style>
+</head>
+<body>
+  <canvas id="canvasThree"></canvas>
+  <div id="buttons">
+    <button id="btnFlower1">Look Right</button>
+    <button id="btnFlower02">Look Down</button>
+    <button id="btnKnot">Look Left</button>
+    <button id="btnTextAnimate">Click</button>
+  </div>
+  <script type="module" src="scene.js"></script>
+</body>
+</html>
