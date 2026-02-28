@@ -18,7 +18,7 @@ _Submission:_
 
 - _What have you used and how has it served you?_  
 Answer: I used ChatGPT as well as Claude.ai. In the beginning, I used them to generate code snippets because I felt overwhelmed by having to come up with ways to implement more complex ideas on my own, and I didn’t have the time for the extensive research needed to gather the same information independently.
-However, I quickly realized that this approach didn’t feel honest and didn’t actually make me feel less overwhelmed, since I often didn’t fully understand the code that was generated for me. I therefore shifted my workflow to first thinking through the logic myself and then asking the ML for theoretical guidance on how an idea could be implemented, rather than direct solutions.
+However, I quickly realized that this approach didn’t feel honest and didn’t actually make me feel less overwhelmed, since I often didn’t fully understand the code that was generated for me. I therefore shifted my workflow to first thinking through the logic myself and then asking the ML for theoretical guidance on how an idea could be implemented, rather than direct solutions. Now I use ML mainly for debugging.
 
 - _Do you actually understand the code an ML tool has given to you (in case you have used any)?_  
 Answer: It depends, but if I want to use the code, some parts of it, or even when i dont wnat to use it, I ask it to walk me through every line of code. That is actually a very big advantage for me in learning with ML since I can have an answer suited for my indivual question in that specific moment, without having to dig through Stack Overflow or other forums and hope to find an answer that fits my problem.
@@ -30,7 +30,7 @@ Answer: I think I could, but definetly not in the current time scope. I think th
 Answer: I liked Claude.ai better than ChatGPT and, of course, Stack Overflow was helpful, sometimes Reddit.
 
 - _How do you want to proceed?_  
-Answer: I will still use ML in the future, but I want to try not to rely on it. It's also more fun, when I can understand and do stuff on my own.
+Answer: I will still use ML in the future, I think mainly for debugging help, but I want to try not to rely on it. It's also more fun, when I can understand and do stuff on my own. B
 
 </br>
 
@@ -44,7 +44,7 @@ _Submission_:
 
 **View Project: https://cc1ws252604jendeskypathway.vercel.app/**
 
-![](https://github.com/MariaJende/LinkedFiles/blob/main/cc1_ws2526_04_jende.gif)
+![](./img/cc1_ws2526_04_jende.gif)
 
 </br>
 

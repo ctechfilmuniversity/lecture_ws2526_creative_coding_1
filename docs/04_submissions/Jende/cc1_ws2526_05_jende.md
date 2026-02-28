@@ -14,7 +14,7 @@ nav_exclude: true
 
 **View Project: https://daffodil.vercel.app/**
 
-![](https://github.com/MariaJende/LinkedFiles/blob/main/cc1_ws2526_02_jende_01.gif)
+![](./img/cc1_ws2526_05_jende.gif)
 
 </br>
 
@@ -100,7 +100,3 @@ _Submission:_
 One of the main challenges of this project was combining different snippets and functionalities into a cohesive, larger composition. I also wanted to explore how to better structure my code by splitting it into multiple .js files that would then be imported into a main file. Due to time constraints, I wasn’t able to implement this approach, but it’s something I plan to do in my next project.
 
 Another significant challenge was translating the mathematical code for the flower point cloud from p5.js to three.js. This process took much longer than I expected, as understanding the underlying math was already challenging, and adapting it to a different framework added another layer of complexity, especially since I had just started learning three.js.
-
----
-
-Bye-bye
