@@ -39,6 +39,8 @@ nav_exclude: true
 * Are there any specific topics that would interest you in the context of this lecture and that haven't been mentioned so far? *If not, you can skip this question.*
 * Is there anything else that you would like me to know regarding this class? *If not, you can skip this question.*
 
+</br>
+
 ## Introduction
 
 ### Task 01.02
@@ -61,6 +63,8 @@ nav_exclude: true
 
 + I’m also interested in website hosting.
 
+</br>
+
 ### Task 01.03
 
 *Find an existing creative coding project that you like. Coding needs to play a significant role for the project, also ideally it is web-based (this is not a hard requirement). Describe what you like about the project and why you think that the project represents creative coding.*
@@ -73,6 +77,8 @@ https://www.aquarium.ru/en
 
 + For me, this is creative coding, because it creates that “How did they do it?” effect while also offering a unique experience and portfolio/promotion for the musicians, reflecting their style as the user navigates through the experience.
 
+</br>
+
 ## p5
 
 ### Task 01.05 - The 10 PRINT pattern
@@ -82,6 +88,8 @@ https://www.aquarium.ru/en
 My Print Pattern:  
 <https://editor.p5js.org/MariaJende/sketches/Jn8TdIwUO>
 
+</br>
+
 ## Task 01.06 - Greeting Card
 
 *Submission: Submit a link to your online sketch within the p5 editor, and link in your markdown submission file at least one result image or video of your work. If you do not use the online editor, submit all source files and resources that I need to run your sketch*
@@ -89,6 +97,8 @@ My Print Pattern:
 My Greeting Card:  
 <https://editor.p5js.org/MariaJende/sketches/iT5v7Q9cM>
   
+</br>
+
 ## Learnings
 
 *Please summarize your personal learnings. What was challenging for you in this session? How did you challenge yourself?*

@@ -48,7 +48,7 @@ Used Claude.ai and Stack Overflow for inspiration, debugging and explanations
 ## Task 05.02 - Feedback
 
 - _How would you rate the difficulty of this class from 1 (far too easy) to 5 (far too difficult)?_  
-Answer: 2.5
+Answer: 3
 
 - _How would you rate the amount of work you had to put into this class so far from 1 (no work at all) to 5 (far too much work)?_  
 Answer: 4
@@ -60,13 +60,13 @@ Answer: 5
 Answer: 4
 
 - _How useful do you consider p5 for you, from 1 (don't need it) to 5 (will use it all the time)?_
-Answer: 4
+Answer: 1
 
 - _How much did you enjoy working with tree.js, from 1 (hate it) to 5 (love it)?_
-Answer: 4
+Answer: 5
 
 - _How useful do you consider tree.js for you, from 1 (don't need it) to 5 (will use it all the time)?_  
-Answer: 2.5
+Answer: 3
 
 - _How much did you enjoy working with React, from 1 (hate it) to 5 (love it)?_  
 Answer: - (I did not work with React, but I will like to do it in the future.)
@@ -75,13 +75,13 @@ Answer: - (I did not work with React, but I will like to do it in the future.)
 Answer: 4
 
 - _How much did you enjoy working on the exercise tasks, from 1 (hated it) to 5 (loved it)?_  
-Answer: 4
+Answer: 5
 
 - _What do you think about the context expansions, e.g., the brief general discussions of certain topics?_  
 Answer: I don't understand the question
 
 - _Which one was your favorite topic, which one your least favorite?_  
-Answer: Favorite - Interaction with Three.js 
+Answer: Favorite - Interaction in Three.js 
 
 - _Was there a topic missing and if so which one?_
  I think it's important to talk more about working with AI and what it means to code and learn to code with it, where it could be hindering learning and where supports it. I think about that a lot.
@@ -93,7 +93,7 @@ Thanks for the course and your patience, Jonathan!
 
 ## Learnings
 
-Please summarize your personal learnings of the final project and in regard to the whole course. What was challenging for you? How did you challenge yourself?
+*Please summarize your personal learnings of the final project and in regard to the whole course. What was challenging for you? How did you challenge yourself?*
 
 _Submission:_
 
