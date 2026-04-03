@@ -41,8 +41,9 @@ The music player in the bottom right corner is a fixed-position ambient audio to
 I used Scroll-triggered reveals with IntersectionObserver — sections fade up as they enter the viewport. The battery bar in the hero I animated through a full drain cycle on loop, going from green to yellow to red, referencing the core game mechanic directly.
 
 
-Audio used: [Soundtrack](https://github.com/haaglynnxctech2025/SmombiesVR/tree/main/audio)
-Images used: [Images] (https://github.com/haaglynnxctech2025/SmombiesVR/tree/main/img)
+[Soundtrack](https://github.com/haaglynnxctech2025/SmombiesVR/tree/main/audio)
+
+[Images](https://github.com/haaglynnxctech2025/SmombiesVR/tree/main/img)
 
 ## Task 05.02 - Feedback
 
