@@ -103,4 +103,15 @@ Maybe we could have talked more about using LLMs in creative coding tasks and wh
 - How event listeners work (onclick, onmousemove)
 - The embedding of the Youtube Link was a weird struggle in the end, just because the Youtube Player just wouldn't embed my video correctly. This being one of the final opertations, I got really angry with YouTube hahah.
 
+
+With the stylin in CSS I learned a lot too:
+- @keyframes animations work and how to chain them with animation-delay
+- object-fit: cover makes images fill a container without distortion
+- clamp() makes font sizes responsive across screen sizes
+- ::before and ::after pseudo-elements 
+- @media queries for layouts responsive on mobile
+- flexbox for layout and alignment
+- mix-blend-mode colour blending between layers
+and a lot more!
+
 Thank you for this class, it was a lot of fun!
